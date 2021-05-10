@@ -1,5 +1,5 @@
 # Tannerdino's F2P Ironman Guide
-This is a F2P Ironman Guide written by Tannerdino. In this guide we will discuss metas, alternatives, explanations, formulas, and much more in the world of F2P. This guide will 100% be up to date with new discoveries or in-game updates. Huge shoutout to the F2P Community, The Summit, and OSRS Wiki for useful info, general discussions, and being and overall good place to be.
+This is a F2P Ironman Guide written by Tannerdino. In this guide we will discuss metas, alternatives, explanations, formulas, and much more in the world of F2P. This guide will 100% be up to date with new discoveries or in-game updates. Huge shoutout to the F2P Community, The Summit, and OSRS Wiki for having useful info, creating general discussions, and being an overall good place to be in.
 
 
 ### Table of Contents
