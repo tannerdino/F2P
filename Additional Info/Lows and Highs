@@ -1,0 +1,94 @@
+tree (bronze Axe): 64, 200
+tree (iron Axe): 96, 300
+tree (steel Axe): 128, 400
+tree (black Axe): 144, 450
+tree (mith Axe): 160, 500
+tree (Addy Axe): 192, 600
+tree (Rune Axe): 244, 700
+oak (bronze Axe): 32, 100
+oak (iron Axe): 48, 150
+oak (steel Axe): 64, 200
+oak (black Axe): 72, 225
+oak (mith Axe): 80, 250
+oak (Addy Axe): 96, 300
+oak (Rune Axe): 112, 350
+Willow (bronze Axe): 16, 50
+Willow (iron Axe): 24, 75
+Willow (steel Axe): 32, 100
+Willow (black Axe): 36, 112
+Willow (mith Axe): 40, 125
+Willow (Addy Axe): 48, 150
+Willow (Rune Axe): 56, 175
+Maple (bronze Axe): 8, 25
+Maple (iron Axe): 12, 37
+Maple (steel Axe): 16, 50
+Maple (black Axe): 18, 56
+Maple (mith Axe): 20, 62
+Maple (Addy Axe): 24, 75
+Maple (Rune Axe): 28, 87
+yew (bronze Axe): 4, 12
+yew (iron Axe): 6, 19
+yew (steel Axe): 8, 25
+yew (black Axe): 9, 28
+yew (mith Axe): 10, 31
+yew (Addy Axe): 12, 44
+yew (Rune Axe): 14, 44
+Log (bronze axe): 128, 400
+Log (iron axe): 192, 600
+Log (steel axe): 256, 800
+Log (black axe): 288, 900
+Log (mithril axe): 320, 1000
+Log (adamant axe): 384, 1200
+Log (rune axe): 448, 1400
+Dogout (bronze axe): 96, 300
+Dogout (iron axe): 144, 450
+Dogout (steel axe): 192, 600
+Dogout (black axe): 216, 675
+Dogout (mithril axe): 240, 750
+Dogout (adamant axe): 288, 900
+Dogout (rune axe): 336, 1050
+Stable dogout (bronze axe): 64, 200
+Stable dogout (iron axe): 96, 300
+Stable dogout (steel axe): 128, 400
+Stable dogout (black axe): 144, 450
+Stable dogout (mithril axe): 160, 500
+Stable dogout (adamant axe): 192, 600
+Stable dogout (rune axe): 224, 700
+Wakka (bronze axe): 32, 100
+Wakka (iron axe): 48, 150
+Wakka (steel axe): 64, 200
+Wakka (black axe): 72, 225
+Wakka (mithril axe): 80, 250
+Wakka (adamant axe): 96, 300
+Wakka (rune axe): 112, 350
+Logs (fire): 64, 512
+Oak logs (fire): ?, ?
+Willow logs (fire): ?, ?
+Maple logs (fire): ?, ?
+Yew logs (fire): ?, ?
+Raw Shrimps: 48, 256 (Cascades)
+Raw Sardine: 32, 192
+Raw Guppy: 32, 192 ? (Cascades)
+Raw Herring: 24, 128 (Cascades)
+Raw Anchovies: 24, 128
+Raw Cavefish: 24, 144 ? (Cascades)
+Raw Trout: 32, 192 (Cascades)
+Raw Pike: 16, 96
+Raw Salmon: 16, 96
+Raw Tetra: 16, 96 ?
+Raw Tuna: 8, 64 (Cascades)
+Raw Lobster: 6, 95
+Raw Swordfish: 4, 48
+Clay rock: ?, ?
+Copper rock: ?, ?
+Tin rock: ?, ?
+Blurite rock: ?, ?
+Barronite shards: ?, ? (Cascades)
+Barronite deposit: ?, ?
+Iron rock: 110, 350
+Silver rock: 25, 200
+Coal rock: ?, ?
+Gold rock: 7, 75
+Mithril rock: ?, ?
+Adamantite rock: ?, ?
+Runite rock: 1, 18
