@@ -5,8 +5,8 @@ This is a F2P Ironman Guide written by Tannerdino. This guide will 100% be up to
 ### Table of Contents
 
  - [**Introduction**](#Introduction)
-    - [F2P Motives](#client-input)
-    - [The Grind](#npc-and-player-turns)
+    - [F2P Motives](#F2P-Motives)
+    - [The Grind](#The-Grind)
     - Tick Manipulation
     - [EHP - Efficient Hours Played](#EHP)
          - [EHP Explained](#EHP-Explained)
@@ -19,7 +19,7 @@ This is a F2P Ironman Guide written by Tannerdino. This guide will 100% be up to
          - OSRS Wiki
          - Discord
          - Reddit
- - [**Efficient Maxing Order**](#tick-manipulation-ii-the-skilling-tick)
+ - [**Efficient Maxing Order**](#Efficient-Maxing-Order)
  - [**Combats**](#combats)
     - [Viable Monsters](#viable-monsters)
     - [Ranged](#crafting)
@@ -27,7 +27,7 @@ This is a F2P Ironman Guide written by Tannerdino. This guide will 100% be up to
     - [Prayer](#prayer)
     - [Magic](#magic)
  - [**Law & Nat Expense Skills**](#Law-and-nat-expense-skills)
-    - [Smithing](#early-examples)
+    - [Smithing](#smithing)
         - Telegrabbing nats
         - Ring of Forging
         - Smithing Alternatives
@@ -40,7 +40,7 @@ This is a F2P Ironman Guide written by Tannerdino. This guide will 100% be up to
         - Suicide bodies
         - Tele earths
         - Runecrafting Alternatives
- - [**Quick Skills**](#tick-manipulation-iii-stalls)
+ - [**Quick Skills**](#Quick-Skills)
     - [Success Formula](#success-formula)
         - [List of Highs and Lows](#success-formula)
     - [Fishing & Cooking](#Fishing-&-Cooking)
@@ -48,11 +48,11 @@ This is a F2P Ironman Guide written by Tannerdino. This guide will 100% be up to
         - [4 tick fish 0 time cook](#4-tick-fish-0-time-cook)
         - ["Erie Fishing"](#erie-fishing)
         - [Fishing Alternatives](#Fishing-alternatives)
-    - [Woodcutting & Firemaking](#stalls-on-successful-rolls)
+    - [Woodcutting & Firemaking](#Woodcutting-&-Firemaking)
         - 2.66 tick woodcut
         - 0 time firemake
         - Woodcutting Alternatives
- - [**Passive Skills**](#some-problems)
+ - [**Passive Skills**](#Passive-Skills)
     - [Hit Points](#hit-points)
     - [Mining](#mining)
 
