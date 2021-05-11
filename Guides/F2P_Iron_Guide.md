@@ -5,39 +5,39 @@ This is a F2P Ironman Guide written by Tannerdino. This guide will 100% be up to
 ### Table of Contents
 
  - [**Introduction**](#Introduction)
-    - [F2P Motives](#F2P-Motives)
-    - [The Grind](#The-Grind)
-    - Tick Manipulation
-    - [EHP - Efficient Hours Played](#EHP)
-         - [EHP Explained](#EHP-Explained)
-         - [Calculations](#Calculations)
-         - [Bonus XP & 0 time](#Bonus-XP-&-0-time)
-    - [Generalities of F2P Iron](#Generalities-of-F2P-Iron)
-    - Useful Tools
-         - Abusing Runelite
-         - F2P Wiki
-         - OSRS Wiki
+     - [F2P Motives](#F2P-Motives)
+     - [The Grind](#The-Grind)
+     - Tick Manipulation
+     - [EHP - Efficient Hours Played](#EHP)
+          - [EHP Explained](#EHP-Explained)
+          - [Calculations](#Calculations)
+          - [Bonus XP & 0 time](#Bonus-XP-&-0-time)
+     - [Generalities of F2P Iron](#Generalities-of-F2P-Iron)
+          - Useful Tools
+          - Abusing Runelite
+          - F2P Wiki
+          - OSRS Wiki
  - [**Efficient Maxing Order**](#Efficient-Maxing-Order)
  - [**Combats**](#combats)
-    - [Viable Monsters](#viable-monsters)
-    - [Ranged](#crafting)
-    - [Melees](#runecrafting)
-    - [Prayer](#prayer)
-    - [Magic](#magic)
+      - [Viable Monsters](#viable-monsters)
+      - [Ranged](#crafting)
+      - [Melees](#runecrafting)
+      - [Prayer](#prayer)
+      - [Magic](#magic)
  - [**Law & Nat Expense Skills**](#Law-and-nat-expense-skills)
-    - [Smithing](#smithing)
-        - Telegrabbing nats
-        - Ring of Forging
-        - Smithing Alternatives
-    - [Crafting](#crafting)
-        - Double hop VSW
-        - VSW
-        - Crafting Alternatives
-    - [Runecrafting](#runecrafting)
-        - Efficient ess mining
-        - Suicide bodies
-        - Tele earths
-        - Runecrafting Alternatives
+     - [Smithing](#smithing)
+         - Telegrabbing nats
+         - Ring of Forging
+         - Smithing Alternatives
+     - [Crafting](#crafting)
+         - Double hop VSW
+         - VSW
+         - Crafting Alternatives
+     - [Runecrafting](#runecrafting)
+         - Efficient ess mining
+         - Suicide bodies
+         - Tele earths
+         - Runecrafting Alternatives
  - [**Quick Skills**](#Quick-Skills)
     - [Success Formula](#success-formula)
         - [List of Highs and Lows](#success-formula)
