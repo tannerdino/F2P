@@ -1,6 +1,5 @@
-
+import math
 def experience(inputlvl):
-    import math
     sum = 0
     lvl = 1
     for x in range(lvl, inputlvl):
@@ -9,7 +8,6 @@ def experience(inputlvl):
     return (realsum)
 
 def xpneeded(inputlvl):
-    import math
     return experience(min(inputlvl + 1,99)) - experience(inputlvl)
 
 def successchance(inputlvl,low,high):
