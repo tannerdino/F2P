@@ -63,9 +63,10 @@ This is a F2P Ironman Guide written by Tannerdino. In this guide we will discuss
 
 
 ### Success Formula
-Many skills, such as fishing, cooking, woodcutting, firemaking, and mining have different success chances based on object types, items used, and levels.
+Many skills, such as fishing, cooking, woodcutting, firemaking, and mining have different success chances based on object types, items used, and levels. Most success chances are calculated using the same formula:
 ![successrate](https://user-images.githubusercontent.com/61213166/117726974-64024780-b1b5-11eb-949e-c22af023a473.PNG)
-Heres the Success Formula. The *Low* and *High* variables usually vary by skill, object types, and items used. The *lvl* variable is obviously the level.
-**Note: This is success chance for each roll. Rolls CAN cascade and or double in some cases, depending on activity.**
+The *Low* and *High* variables usually vary by skill, object types, and items used. The *lvl* variable is obviously the level.
 
-[A Complete List of Low and High Variables](https://pastebin.com/raw/G5ui0Vi3)
+**Note: This is success chance for each ROLL. Rolls can cascade and or double in certain cases, depending on activity.**
+
+[A List of Low and High Variables](https://github.com/tannerdino/F2P/blob/e0f25e168e279b8ccf2b99293cfd4c8575b2d14b/Additional%20Info/Lows%20and%20Highs)
