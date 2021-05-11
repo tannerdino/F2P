@@ -25,12 +25,16 @@ This is a F2P Ironman Guide written by Tannerdino. In this guide we will discuss
     - [Runecrafting](#runecrafting)
  - [**Quick Skills**](#tick-manipulation-iii-stalls)
     - [Success Formula](#success-formula)
+        - [List of Highs and Lows](#success-formula)
     - [Fishing & Cooking](#Fishing-&-Cooking)
         - [3 tick fish 0 time cook](#3-tick-fish-0-time-cook)
         - [4 tick fish 0 time cook](#4-tick-fish-0-time-cook)
         - ["Erie Fishing"](#erie-fishing)
         - [Fishing Alternatives](#Fishing-alternatives)
     - [Woodcutting & Firemaking](#stalls-on-successful-rolls)
+        - 2.66 tick woodcut
+        - 0 time firemake
+        - Woodcutting Alternatives
  - [**Passive Skills**](#some-problems)
     - [Hit Points](#hit-points)
     - [Mining](#mining)
@@ -42,8 +46,6 @@ This is a F2P Ironman Guide written by Tannerdino. In this guide we will discuss
 Many skills, such as fishing, cooking, woodcutting, firemaking, and mining have different success chances based on object types, items used, and levels.
 ![successrate](https://user-images.githubusercontent.com/61213166/117726974-64024780-b1b5-11eb-949e-c22af023a473.PNG)
 Heres the Success Formula. The *Low* and *High* variables usually vary by skill, object types, and items used. The *lvl* variable is obviously the level.
+**Note: This is success chance for each roll. Rolls CAN cascade and or double in some cases, depending on activity.**
 
-#### Most useful *Low* and *High* variables:
-   Name    |  *Low*  |  *High*  |
-- 
 [A Complete List of Low and High Variables](https://pastebin.com/raw/G5ui0Vi3)
