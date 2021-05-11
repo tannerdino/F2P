@@ -1,5 +1,5 @@
 # Tannerdino's F2P Ironman Guide
-This is a F2P Ironman Guide written by Tannerdino. In this guide we will discuss metas, alternatives, explanations, formulas, and much more in the world of F2P. This guide will 100% be up to date with new discoveries or in-game updates. Huge shoutout to the F2P Community, The Summit, and OSRS Wiki for having useful info, creating general discussions, and being an overall good place to be in.
+This is a F2P Ironman Guide written by Tannerdino. In this guide we will discuss metas, alternatives, explanations, formulas, and much more in the world of F2P. This guide will 100% be up to date with new discoveries or in-game updates. Huge shoutout to the F2P Community, The Summit, and OSRS Wiki for having useful info, creating discussions, and overall being a good place to be in.
 
 
 ### Table of Contents
@@ -7,11 +7,18 @@ This is a F2P Ironman Guide written by Tannerdino. In this guide we will discuss
  - [**Introduction**](#Introduction)
     - [F2P Motives](#client-input)
     - [The Grind](#npc-and-player-turns)
+    - Tick Manipulation
     - [EHP - Efficient Hours Played](#EHP)
          - [EHP Explained](#EHP-Explained)
          - [Calculations](#Calculations)
          - [Bonus XP & 0 time](#Bonus-XP-&-0-time)
     - [Generalities of F2P Iron](#Generalities-of-F2P-Iron)
+    - Useful Tools
+         - Abusing Runelite
+         - F2P Wiki
+         - OSRS Wiki
+         - Discord
+         - Reddit
  - [**Efficient Maxing Order**](#tick-manipulation-ii-the-skilling-tick)
  - [**Combats**](#combats)
     - [Viable Monsters](#viable-monsters)
@@ -21,8 +28,18 @@ This is a F2P Ironman Guide written by Tannerdino. In this guide we will discuss
     - [Magic](#magic)
  - [**Law & Nat Expense Skills**](#Law-and-nat-expense-skills)
     - [Smithing](#early-examples)
+        - Telegrabbing nats
+        - Ring of Forging
+        - Smithing Alternatives
     - [Crafting](#crafting)
+        - Double hop VSW
+        - VSW
+        - Crafting Alternatives
     - [Runecrafting](#runecrafting)
+        - Efficient ess mining
+        - Suicide bodies
+        - Tele earths
+        - Runecrafting Alternatives
  - [**Quick Skills**](#tick-manipulation-iii-stalls)
     - [Success Formula](#success-formula)
         - [List of Highs and Lows](#success-formula)
@@ -38,6 +55,9 @@ This is a F2P Ironman Guide written by Tannerdino. In this guide we will discuss
  - [**Passive Skills**](#some-problems)
     - [Hit Points](#hit-points)
     - [Mining](#mining)
+
+## Introduction
+
 
 
 
