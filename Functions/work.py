@@ -11,7 +11,7 @@ def xpneeded(inputlvl):
     return experience(min(inputlvl + 1,99)) - experience(inputlvl)
 
 def successchance(inputlvl,low,high):
-    return (math.floor(low*(99-inputlvl)/98) + math.floor(high*(inputlvl-99)/98) + 1)/256
+    return (math.floor(low*(99-inputlvl)/98) + math.floor(high*(inputlvl-1)/98) + 1)/256
 
 def ogresspercentage(monster1,monster2,combatxpstart,combatxpgoal): #kinda scuffed atm, doesnt include proper craft and smith variables
     a = monster1.lawsper
