@@ -79,7 +79,7 @@ Introduction will be used to introduce you to important topics and information t
 
 
 ### F2P Motives
-F2P requires a huge amount of motivation. Many players have their reasons why they play F2P, but the same answers usually always arise: A good sense of community, no obligation to play before membership runs out, no hourlies/dailies, 99's hold more value, the gameplay is simple and straight forward, F2P is nostalgic, there's no end, and plenty more. The biggest reason that was listed is the community. Community creates discussion, competition, a drive to uplift others, friendships, and a homely place to stay.
+F2P requires a huge amount of motivation. Many players have their reasons why they play F2P, but the same answers usually always arise: A good sense of community, no obligation to play before membership runs out, no hourlies/dailies, 99's hold more value, the gameplay is simple and straight forward, F2P is nostalgic, there's no end, and plenty more. The biggest reason is the community. Community creates discussion, competition, a drive to uplift others, friendships, and a comfortable place to stay.
 
 
 ### The Grind
