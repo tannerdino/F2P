@@ -124,7 +124,7 @@ List of Runelite plugins that make the game easier, but are not overpowered:
 
 Overpowered Runelite plguins:
 - **Anti Drag**: Allows you to increase the threashold to drag items, allowing you to minimalize misclicks.
-- **Entity Hider**: Can allow you to hide npcs/categorized players; really useful for fishing, or any method thats overcrowded by players.
+- **Entity Hider**: Allows you to hide npcs/categorized players; really useful for fishing, or any method thats overcrowded by players.
 - **World Hopper**: Changing worlds on login screen, and auto hop.
 - **GPU**: Increased render distance.
 - **Camera**: Increased camera zoom out distance.
@@ -134,12 +134,28 @@ Overpowered Runelite plguins:
 
 
 #### OSRS wiki
-OSRS Wiki is a perfect place to find information about things ingame, make sure you use the [Wiki](https://oldschool.runescape.wiki/) and not the [Wikia Fandom](https://oldschoolrunescape.fandom.com/wiki/Old_School_RuneScape_Wiki). If you want to make sure you use the right one, the ingame account management tab has an osrs wiki link. 90% of the questions you have are easily wikiable; however, OSRS wiki can lack specific F2P Meta questions. Most F2P Meta questions can be answered [here](https://www.f2p.wiki/faqs)
+OSRS Wiki is a perfect place to find information about things ingame, make sure you use the [Wiki](https://oldschool.runescape.wiki/) and not the [Wikia Fandom](https://oldschoolrunescape.fandom.com/wiki/Old_School_RuneScape_Wiki). If you want to make sure you use the right one, the ingame account management tab has an osrs wiki link, as well as a wiki banner at the top right of your client and a wiki command in public chat "::wiki". 90% of the questions you have are easily wikiable; however, OSRS wiki can lack specific F2P Meta questions. Most F2P Meta questions can be answered [here](https://www.f2p.wiki/faqs)
+
+## Efficient Max Order
+
+## Tactics & Techniques
+
+## Combats
+Combat training has the biggest impact over any skill on a F2P Ironman. Law & Nat expense skills rely heavily on combat, which also means your combat training relies heavily on your laws and nats needed, but laws are most notable. There are 4 main monsters in F2P that give laws: Ogresses, Moss Giants, Hill Giants, and Ankous. Each have their pros and cons. Theres also other monsters that give very little laws such as Mind and Body Golems, Giant Frogs, Chaos Dwarves, Ice Giants, Minotaurs, Demons, ect.
+
+### [Ogresses](https://oldschool.runescape.wiki/w/Ogress_Warrior)
+Ogresses give the most laws out of any of the other monsters. On top of that, they give tons of nats, gems, and gp. However, Ogresses have much higher defence and HP than the other monsters. This means reduced combat XP/hr and less prayer xp in the longrun. Ogresses are killed in the [Cosair Cove.](https://oldschool.runescape.wiki/w/Corsair_Cove#Corsair_Cove_Dungeon)
+
+### [Moss Giants](https://oldschool.runescape.wiki/w/Moss_giant)
+Moss Giants give decent laws, nats, and gp. They, additionally, give really good combat XP/hr and solid prayer XP. One thing that really benifits the loot from Moss Giants is the mossy keys. Mossy keys are a one time use to fight [Bryophyta](https://oldschool.runescape.wiki/w/Bryophyta), the moss giant boss, and they're a really good source of laws, nats, gp, and strength pots. Mossy keys are normally a 1/150 chance (pre-roll); however, at [Wilderness Moss Giants](https://mejrs.github.io/osrs?m=-1&z=3&p=0&x=3139&y=3813&npc=Moss+giant) mossy keys have an additional 1/100 chance to drop when the 1/150 chance fails. This averages to a 1/60.24 chance. Additionally, Bryophyta has a 1/16 chance (pre-roll) to drop a key. So this increases the average keys per Moss Giant even further to a 1/56.475 chance. If you dont want to risk going into the wilderness, Moss Giants in [Varrock Sewers](https://mejrs.github.io/osrs?m=-1&z=4&p=0&x=3165&y=9889&npc=Moss+giant) or [Crandor](https://mejrs.github.io/osrs?m=-1&z=3&p=0&x=2826&y=3239&npc=Moss+giant) is the next best thing.
+
+### [Hill Giants](https://oldschool.runescape.wiki/w/Hill_Giant_(Desert_Plateau))
+Hill Giants give decent laws, nats, and gp. They give decent combat XP/hr, and extremely good prayer XP. Hill Giants also have a giant boss: [Obor](https://oldschool.runescape.wiki/w/Obor). Obor is the key reason why hill giants have decent laws, nats, and gp. Unlike Moss Giants, Hill Giants do not have a good wilderness spot; in addition, Giant keys in the wilderness are a 1/60 chance compared to the 1/56.475 chance of mossy keys. This is okay, however, because Hill Giants at [Desert Plateau](https://oldschool.runescape.wiki/w/Desert_Plateau) are really good. Desert Plateau has 7 Hill Giant spawns, as well as 5 bone spawns that take 100 ticks each to respawn; that means if you were to pick up those bone spawns perfectly during hill giant killing, it'd be an additional 1350 prayer XP/hr, just from the bone spawns alone. Alternatively, you could do Hill Giants in the [Edgeville Dungeon](https://oldschool.runescape.wiki/w/Edgeville_Dungeon#Southern), which is good for using giant keys during trips; however, theres more people there and the Hill Giants are more spread-out
 
 
 ### Success Formula
 Many skills, such as fishing, cooking, woodcutting, firemaking, and mining use a success chance formula. Keep in mind this is success chance for each ROLL; rolls can cascade and or double in certain cases. Most success chances are calculated using the same formula:
-![successrate](https://user-images.githubusercontent.com/61213166/117726974-64024780-b1b5-11eb-949e-c22af023a473.PNG)
+![successrate](https://user-images.githubusercontent.com/61213166/117903966-845a0100-b29e-11eb-8230-b63d5e5a4550.png)
 The *Low* and *High* variables usually vary by skill, object types, and items used. The *lvl* variable is obviously the level.
 
 [A List of Low and High Variables](https://github.com/tannerdino/F2P/blob/e0f25e168e279b8ccf2b99293cfd4c8575b2d14b/Additional%20Info/Lows%20and%20Highs)
