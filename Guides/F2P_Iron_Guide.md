@@ -152,6 +152,9 @@ Moss Giants give decent laws, nats, and gp. They, additionally, give really good
 ### [Hill Giants](https://oldschool.runescape.wiki/w/Hill_Giant_(Desert_Plateau))
 Hill Giants give decent laws, nats, and gp. They give decent combat XP/hr, and extremely good prayer XP. Hill Giants also have a giant boss: [Obor](https://oldschool.runescape.wiki/w/Obor). Obor is the key reason why hill giants have decent laws, nats, and gp. Unlike Moss Giants, Hill Giants do not have a good wilderness spot; in addition, Giant keys in the wilderness are a 1/60 chance compared to the 1/56.475 chance of mossy keys. This is okay, however, because Hill Giants at [Desert Plateau](https://oldschool.runescape.wiki/w/Desert_Plateau) are really good. Desert Plateau has 7 Hill Giant spawns, as well as 5 bone spawns that take 100 ticks each to respawn; that means if you were to pick up those bone spawns perfectly during hill giant killing, it'd be an additional 1350 prayer XP/hr, just from the bone spawns alone. Alternatively, you could do Hill Giants in the [Edgeville Dungeon](https://oldschool.runescape.wiki/w/Edgeville_Dungeon#Southern), which is good for using giant keys during trips; however, theres more people there and the Hill Giants are more spread-out
 
+### Formulas & Solutions
+![Bigformula](https://user-images.githubusercontent.com/61213166/117911432-c8073780-b2ab-11eb-8951-7dc6c4680ea1.png)
+
 
 ### Success Formula
 Many skills, such as fishing, cooking, woodcutting, firemaking, and mining use a success chance formula. Keep in mind this is success chance for each ROLL; rolls can cascade and or double in certain cases. Most success chances are calculated using the same formula:
