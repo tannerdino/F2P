@@ -141,7 +141,7 @@ OSRS Wiki is a perfect place to find information about things ingame, make sure 
 ## Tactics & Techniques
 
 ## Combats
-Combat training has the biggest impact over any skill on a F2P Ironman. Law & Nat expense skills rely heavily on combat, which also means your combat training relies heavily on your laws and nats needed, but laws are most notable. There are 4 main monsters in F2P that give laws: Ogresses, Moss Giants, Hill Giants, and Ankous. Each have their pros and cons. Theres also other monsters that give very little laws such as Mind and Body Golems, Giant Frogs, Chaos Dwarves, Ice Giants, Minotaurs, Demons, ect.
+Combat training has the biggest impact over any skill on a F2P Ironman. Law & Nat expense skills and combats rely on each other, the most important drop of which are the law drops. There are 4 main monsters in F2P that give laws: Ogresses, Moss Giants, Hill Giants, and Ankous. Each have their pros and cons. Theres also other monsters that give very little laws such as Mind and Body Golems, Giant Frogs, Chaos Dwarves, Ice Giants, Minotaurs, Demons, ect.
 
 ### [Ogresses](https://oldschool.runescape.wiki/w/Ogress_Warrior)
 Ogresses give the most laws out of any of the other monsters. On top of that, they give tons of nats, gems, and gp. However, Ogresses have much higher defence and HP than the other monsters. This means reduced combat XP/hr and less prayer xp in the longrun. Ogresses are killed in the [Cosair Cove.](https://oldschool.runescape.wiki/w/Corsair_Cove#Corsair_Cove_Dungeon)
@@ -153,6 +153,17 @@ Moss Giants give decent laws, nats, and gp. They, additionally, give really good
 Hill Giants give decent laws, nats, and gp. They give decent combat XP/hr, and extremely good prayer XP. Hill Giants also have a giant boss: [Obor](https://oldschool.runescape.wiki/w/Obor). Obor is the key reason why hill giants have decent laws, nats, and gp. Unlike Moss Giants, Hill Giants do not have a good wilderness spot; in addition, Giant keys in the wilderness are a 1/60 chance compared to the 1/56.475 chance of mossy keys. This is okay, however, because Hill Giants at [Desert Plateau](https://oldschool.runescape.wiki/w/Desert_Plateau) are really good. Desert Plateau has 7 Hill Giant spawns, as well as 5 bone spawns that take 100 ticks each to respawn; that means if you were to pick up those bone spawns perfectly during hill giant killing, it'd be an additional 1350 prayer XP/hr, just from the bone spawns alone. Alternatively, you could do Hill Giants in the [Edgeville Dungeon](https://oldschool.runescape.wiki/w/Edgeville_Dungeon#Southern), which is good for using giant keys during trips; however, theres more people there and the Hill Giants are more spread-out
 
 ### Formulas & Solutions
+The question arises: What is the best monster to kill? The solution is quite simple actually, it's a mix of Ogresses and Hill Giants. 42.54% Ogresses, 57.46% Hill Giants to be exact.
+
+First, we need to figure out which skills are worth to spend laws on. For a rough estimate, we can look at the increase in xp/hr per law used.
+Rc: 0.00% (0.25% - 0.44% UIM & HCIM)
+Smith: ~0.30% (0.33% UIM)
+Crafting: ~3.00%
+Keep in mind, in order to precisely find the answer, we'd need to look at hours saved per law, which is a lot of math work as a lot of skills depend on each other. A rough estimate gives us enough evidence to assume that smithing and crafting are prioritized over runecrafting, assuming you play efficiently on a normal ironman account. On UIM's and HCIM's, prioritizing runecrafting over smithing doesn't lose you a significant amount of time, compared to how much time you lose on a normal iron. This is mainly due to the passive magic xp from smithing.
+
+
+Assuming smithing and crafting are a priority, we need to find the laws needed. However, this isn't simple because depending on what monster we kill, the 0 time craft and smith affects the laws needed. 
+
 ![Bigformula](https://user-images.githubusercontent.com/61213166/117911432-c8073780-b2ab-11eb-8951-7dc6c4680ea1.png)
 
 
