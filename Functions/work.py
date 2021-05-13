@@ -35,23 +35,6 @@ def bigformula(monster1,monster2,combatxpstart,combatxpgoal): #clean this NOW
     findperc = (1/finalstep)/(1+(1/finalstep))
     return findperc #ogress
 
-
-
-xpperhour = 14000
-xpperhour2 = 23000
-lawslap = (3.5*37.5)
-lawspent = xpperhour2/lawslap
-lawsomething = (xpperhour2-xpperhour)/lawspent
-
-increaseperlaw = 1 - xpperhour/(xpperhour+lawsomething)
-
-
-Oc = ogress.craftper
-Oh = ogress.hp
-D = 13034431*4
-C = 13034431
-S = 13034431
-
 def DPSS(monstertype,weapon,strengthlvl,attacklvl,pray): #AGGRESSIVE
     import math
     strpray = pray
