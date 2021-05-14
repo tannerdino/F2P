@@ -31,9 +31,9 @@ This is a F2P Ironman Guide written by Tannerdino. This guide will 100% be up to
          - Golems
          - Ankous
          - Miscellaneous 
-     - Formulas and Solutions
+     - [Melee Orders](#melee-orders)
+     - [Monster Percentages]
      - [Ranged](#ranged)
-     - [Melees](#Melees)
      - [Prayer](#prayer)
          - Passive prayer
          - Boneyard
@@ -150,21 +150,35 @@ Ogresses give the most laws out of any of the other monsters. On top of that, th
 Moss Giants give decent laws, nats, and gp. They, additionally, give really good combat XP/hr and solid prayer XP. One thing that really benifits the loot from Moss Giants is the mossy keys. Mossy keys are a one time use to fight [Bryophyta](https://oldschool.runescape.wiki/w/Bryophyta), the moss giant boss, and they're a really good source of laws, nats, gp, and strength pots. Mossy keys are normally a 1/150 chance (pre-roll); however, at [Wilderness Moss Giants](https://mejrs.github.io/osrs?m=-1&z=3&p=0&x=3139&y=3813&npc=Moss+giant) mossy keys have an additional 1/100 chance to drop when the 1/150 chance fails. This averages to a 1/60.24 chance. Additionally, Bryophyta has a 1/16 chance (pre-roll) to drop a key. So this increases the average keys per Moss Giant even further to a 1/56.475 chance. If you dont want to risk going into the wilderness, Moss Giants in [Varrock Sewers](https://mejrs.github.io/osrs?m=-1&z=4&p=0&x=3165&y=9889&npc=Moss+giant) or [Crandor](https://mejrs.github.io/osrs?m=-1&z=3&p=0&x=2826&y=3239&npc=Moss+giant) is the next best thing.
 
 ### [Hill Giants](https://oldschool.runescape.wiki/w/Hill_Giant_(Desert_Plateau))
-Hill Giants give decent laws, nats, and gp. They give decent combat XP/hr, and extremely good prayer XP. Hill Giants also have a giant boss: [Obor](https://oldschool.runescape.wiki/w/Obor). Obor is the key reason why hill giants have decent laws, nats, and gp. Unlike Moss Giants, Hill Giants do not have a good wilderness spot; in addition, Giant keys in the wilderness are a 1/60 chance compared to the 1/56.475 chance of mossy keys. This is okay, however, because Hill Giants at [Desert Plateau](https://oldschool.runescape.wiki/w/Desert_Plateau) are really good. Desert Plateau has 7 Hill Giant spawns, as well as 5 bone spawns that take 100 ticks each to respawn; that means if you were to pick up those bone spawns perfectly during hill giant killing, it'd be an additional 1350 prayer XP/hr, just from the bone spawns alone. Alternatively, you could do Hill Giants in the [Edgeville Dungeon](https://oldschool.runescape.wiki/w/Edgeville_Dungeon#Southern), which is good for using giant keys during trips; however, theres more people there and the Hill Giants are more spread-out
+Hill Giants give decent laws, nats, and gp. They give decent combat XP/hr, and extremely good prayer XP. Hill Giants also have a giant boss: [Obor](https://oldschool.runescape.wiki/w/Obor). Obor is the key reason why hill giants have decent laws, nats, and gp. Unlike Moss Giants, Hill Giants do not have a good wilderness spot; in addition, giant keys in the wilderness are a 1/60 chance compared to the 1/56.475 chance of mossy keys. This is okay, however, because Hill Giants at [Desert Plateau](https://oldschool.runescape.wiki/w/Desert_Plateau) are really good. Desert Plateau has 7 Hill Giant spawns, as well as 5 bone spawns that take 100 ticks each to respawn; that means if you were to pick up those bone spawns perfectly during hill giant killing, it'd be an additional 1350 prayer XP/hr, just from the bone spawns alone. Alternatively, you could do Hill Giants in the [Edgeville Dungeon](https://oldschool.runescape.wiki/w/Edgeville_Dungeon#Southern), which is good for using giant keys during trips; however, theres more people there and the Hill Giants are more spread-out
 
-### Formulas & Solutions
-The question arises: What is the best monster to kill? The solution is quite simple actually, it's a mix of Ogresses and Hill Giants. 42.54% Ogresses, 57.46% Hill Giants to be exact.
+### Efficient Melee Order
+Each melee skill increases [DPS](https://oldschool.runescape.wiki/w/Damage_per_second/Melee), in a variety of ways; each attack lvl gained increases accuracy, every X number of strength lvls gained increases max hit, and each defence lvl gained increases trip time (if no prayer flick). The order of which you train attack, strength, and defence becomes the question. The solution is quite simple; if the hours saved from a gained attack lvl, before progressing strength lvls to the next max hit, is greater than the hours saved from training that next attack lvl with a new max hit, then its better to train attack in that case; else, it's better to train strength. Using the [MeleeOrder funtion](2) I made, I've compiled a lot of melee orders for each monster.
 
-First, we need to figure out which skills are worth to spend laws on. For a rough estimate, we can look at the increase in xp/hr per law used.
-Rc: 0.00% (0.25% - 0.44% UIM & HCIM)
-Smith: ~0.30% (0.33% UIM)
-Crafting: ~3.00%
-Keep in mind, in order to precisely find the answer, we'd need to look at hours saved per law, which is a lot of math work as a lot of skills depend on each other. A rough estimate gives us enough evidence to assume that smithing and crafting are prioritized over runecrafting, assuming you play efficiently on a normal ironman account. On UIM's and HCIM's, prioritizing runecrafting over smithing doesn't lose you a significant amount of time, compared to how much time you lose on a normal iron. This is mainly due to the passive magic xp from smithing.
+Data from this confirms
 
+### Monster Percentages
+When deciding what to kill for combats, a dilemma occurs: Ogresses give too many laws for smithing and crafting, but not enough laws for rc; and everything else doesn't give enough laws for smithing. What we need is a percentage of ogresses and monster2 needed for the perfect amount of laws. However, we need to figure out which skills are worth to spend laws on first. For a rough estimate, we can look at the increase in xp/hr per law used for each skill.
+- Rc: 0.00% (~0.25% - 0.44% UIM & HCIM)
+- Smith: ~0.30% (0.33% UIM)
+- Crafting: ~3.00%
 
-Assuming smithing and crafting are a priority, we need to find the laws needed. However, this isn't simple because depending on what monster we kill, the 0 time craft and smith affects the laws needed. 
+Keep in mind, in order to precisely find the answer, we'd need to look at hours saved per law, which is a lot of math work as a lot of skills depend on each other. A rough estimate gives us enough evidence to assume that smithing and crafting are prioritized over runecrafting, assuming you play efficiently on a normal ironman account. On UIM's and HCIM's, prioritizing runecrafting over smithing doesn't lose you a significant amount of time, compared to how much time you lose on a normal iron. [Suicide bodies] is the reason why law rc on ironman isnt as good. Smithing also gives a significant amount of magic xp, as stated in [smithing].
 
+Assuming we're prioritizing smithing and crafting over runecrafting, we can use this simple formula to determine the Monster2:Ogress ratio. With this ratio, we can very easily determine the percentage of both monsters.
 ![Bigformula](https://user-images.githubusercontent.com/61213166/117911432-c8073780-b2ab-11eb-8951-7dc6c4680ea1.png)
+Where:
+- *x = monster2's per Ogress*
+- *O = Ogress*
+- *m = monster2*
+- *C = Crafting xp needed to goal*
+- *S = Smith xp needed to goal*
+- *D = Combat xp needed to goal*
+- *c = craft per kill*
+- *h = health*
+- *n = nats per kill*
+- *l = laws per kill*
+
 
 
 ### Success Formula
