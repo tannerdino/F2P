@@ -13,7 +13,7 @@ This is a F2P Ironman Guide written by Tannerdino. This guide will 100% be up to
           - Abusing Runelite
           - F2P Wiki
           - OSRS Wiki
- - [**Efficient Maxing Order**](#Efficient-Maxing-Order)
+ - [**Maxing Orders**](#Maxing Orders)
 
 
  - **Tactics & Techniques**
@@ -56,6 +56,7 @@ This is a F2P Ironman Guide written by Tannerdino. This guide will 100% be up to
          - Tele earths
          - Runecrafting Alternatives
          - Unrealistic methods
+     - [Mining](#mining)
  - [**Quick Skills**](#Quick-Skills)
     - [Success Formula](#success-formula)
         - [List of Highs and Lows](#success-formula)
@@ -69,9 +70,6 @@ This is a F2P Ironman Guide written by Tannerdino. This guide will 100% be up to
         - 0 time firemake
         - Woodcutting Alternatives
         - Unrealistic methods
- - [**Passive Skills**](#Passive-Skills)
-    - [Hit Points](#hit-points)
-    - [Mining](#mining)
 
 ## Introduction
 Introduction will be used to introduce you to important topics and information that are outside the realm of the in-game meta.
