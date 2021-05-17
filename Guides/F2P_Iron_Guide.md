@@ -184,6 +184,15 @@ Fishing, cooking, woodcutting, and firemaking are the fastest skills on a F2P Ir
 ### Fishing & Cooking
 Fishing and Cooking are pretty much the same skill. Trout and salmon are the best fishing xp, which are found at [Barbarian Village]() and Lumbridge. Lumbridge is always better than Barbarian Village; believe it or not, Lumbridge fish spawns are considerably closer to each other, making lumbridge ~0.68% faster in just raw rates. However, some people prefer Barbarian Village over Lumbridge, due to the eternal fire there. There's a large assortment of [Tick Manipulation]() methods for fishing. But, all of them are beat out by one method called "Erie fishing."
 
+#### List of methods and XP rates:
+- Erie fishing: 
+- 4 tick fish 0 time cook
+- 5 tick fish 0 time cook
+- 3 tick fish 3.5 tick cook
+- 3 tick fish 4 tick cook
+- 
+
+
 #### 3 tick fish 0 time cook
 3 tick fish 0 time cook is a key part of Erie fishing. Eating increases the skilling timer by 3 ticks, we can abuse this by eating right as the tick cycle is over continuing it as a "3 tick cycle". When cooking, if you only have one of a particular fish type, you can cook it in 1 tick; on top of that, you can cook in the same tick that you eat, without interupting eating. Note that, in F2P, eating is the only way to 3 tick fish 0 time cook; other ways to 3 tick in F2P, like auto retaliate and snow, are a lot more strict compared to eating. Auto retaliate doesn't actually create a 3 tick cycle, it just changes your skilling timer to half your attack speed (rounded down), and requires no interaction meaning you cannot cook in time or at the same time. Similarly with snow, you cannot cook in the same tick you start a 3 tick cycle with snow making snow essentially redundant.
 
