@@ -210,7 +210,7 @@ During this method, you do not want to "react" to getting a fish; knowing exactl
  
  
 #### 4 tick fish 0 time cook
-4 tick fish 0 time cook is the last ingredient to Erie fishing. When you're doing 3 tick fish 0 time cook, you eventually run out of fish to eat due to the chance of an unsuccessful roll. In order to get fish back without eating, the next best thing is to use either leather, a way to 4 tick. This method is considerably easier to time, and doesn't require as many clicks as 3 tick fish 0 ti[me cook. If you do this method to replace Erie fishing, you only lose around 43 hours in total.<div style="text-align:left"><img src="https://media.giphy.com/media/Y8wu1jTATBFSiHFs8m/giphy.gif" alt='3 tick fish 0 time cook' width=450>
+4 tick fish 0 time cook is the last ingredient to Erie fishing. When you're doing 3 tick fish 0 time cook, you eventually run out of fish to eat due to the chance of an unsuccessful roll. In order to get fish back without eating, the next best thing is to use either leather, a way to 4 tick. This method is considerably easier to time, and doesn't require as many clicks as 3 tick fish 0 ti[me cook. If you do this method to replace Erie fishing, you only lose around 43 hours in total.<div style="text-align:center"><img src="https://media.giphy.com/media/Y8wu1jTATBFSiHFs8m/giphy.gif" alt='3 tick fish 0 time cook' width=450>
 
  
  
