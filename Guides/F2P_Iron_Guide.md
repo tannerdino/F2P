@@ -182,15 +182,22 @@ Where:
 Fishing, cooking, woodcutting, and firemaking are the fastest skills on a F2P Ironman. All of these skills have their own range of leniency in terms of mechanics, alternatives, and max order placement.
 
 ### Fishing & Cooking
-Fishing and Cooking are pretty much the same skill. Trout and salmon are the best fishing xp, which are found at [Barbarian Village]() and Lumbridge. Lumbridge is always better than Barbarian Village; believe it or not, Lumbridge fish spawns are considerably closer to each other, making lumbridge ~0.68% faster in just raw rates. However, some people prefer Barbarian Village over Lumbridge, due to the eternal fire there. There's a large assortment of [Tick Manipulation]() methods for fishing. But, all of them are beat out by one method called "Erie fishing."
+Fishing and Cooking are pretty much the same skill. Trout and salmon are the best fishing xp, which are found at [Barbarian Village]() and Lumbridge. When fishing trout and salmon, from lvls 20-99 you can expect to use roughly 222,160 feathers averaging 58.63 xp per feather. Your cooking to fishing xp ratio will be on average 1.3353:1, putting you at 9,757,940 fishing xp once you hit 99 fishing; once there, you can do cookless fishing. Lumbridge is always better than Barbarian Village; believe it or not, Lumbridge fish spawns are considerably closer to each other, making lumbridge ~0.68% faster in just raw rates. However, some people prefer Barbarian Village over Lumbridge, due to the eternal fire there. There's a large assortment of [Tick Manipulation]() methods for fishing. But, all of them are beat out by one method called "Erie fishing."
 
-#### List of methods and XP rates:
-- Erie fishing: 
-- 4 tick fish 0 time cook
-- 5 tick fish 0 time cook
-- 3 tick fish 3.5 tick cook
-- 3 tick fish 4 tick cook
-- 
+#### List of Methods and their **perfect tick** XP rates:
+ Method | Average XP/hr to level 99 |   level 99 XP/hr   | Hours to level 99|  -  |  -  | Method | Average XP/hr to level 99 | level 99 XP/hr | Hours to level 99
+--------|---------------|----------------|--------------|-----|-----|--------|----------------|-----------------|--------------
+Erie fishing | 81669 xp/hr | 90243 xp/hr | 158 Hours |  -  |  -  | AFK SwordFish (no cook) | 37745 xp/hr | 42678 xp/hr | 345 Hours
+4 tick fish 0 time cook | 64811 xp/hr | 70673 xp/hr | 201 Hours |  -  |  -  | AFK Lobsters (no cook) | 35725 xp/hr | 40500 xp/hr | 364 Hours
+5 tick fish 0 time cook | 51862 xp/hr | 56539 xp/hr | 251 Hours | -  |  -  | AFK Trout & salmon | 35915 xp/hr | 33903 xp/hr | 363 Hours
+3 tick fish 3.5 tick cook | 50972 xp/hr | 46527 xp/hr | 255 Hours |  -  |  -  | Click intensive Camdozaal Fishing | 7748 xp/hr | 8600 xp/hr | 1682 Hours
+3 tick fish 4 tick cook | 48334 xp/hr | 43622 xp/hr | 269 Hours | -  |  -  | AFK Trout & salmon (no cook) | 54281 xp/hr | 59177 xp/hr | 240 Hours
+3 tick fish (no cook)| 88761 xp/hr | 96837 xp/hr | 147 Hours | -  |  -  | - | - | - | -
+4 tick fish (no cook) | 67832 xp/hr | 73972 xp/hr | 192 Hours | -  |  -  | - | - | - | -
+5 tick fish (no cook) | 54281 xp/hr | 59177 xp/hr | 240 Hours | -  |  -  | - | - | - | -
+
+
+
 
 
 #### 3 tick fish 0 time cook
@@ -198,13 +205,22 @@ Fishing and Cooking are pretty much the same skill. Trout and salmon are the bes
 
 <div style="text-align:center"><img src="https://i.imgur.com/4qA8nbh.png" alt='3 tick fish 0 time cook' width=450>
 
-During this method, you do not want to "react" to getting a fish; knowing exactly when your next fish is key to this method. Precise timing makes the clicks easy. Remember you can use your xp drops as a good way to keep your self in a rhythm (Set them to slower by right clicking on xp orb!)
+During this method, you do not want to "react" to getting a fish; knowing exactly when your next fish is key to this method. Precise timing makes the clicks easy. Remember you can use your xp drops as a good way to keep your self in a rhythm (Set them to slower by right clicking on xp orb!) 
+
  
-
+ 
 #### 4 tick fish 0 time cook
-4 tick fish 0 time cook is the last ingredient to Erie fishing. When you're doing 3 tick fish 0 time cook, you eventually run out of fish to eat due to the chance of an unsuccessful roll. In order to get fish back without eating, the next best thing is to use either leather, or an empty shortbow; both being a way to 4 tick. This method is considerably easier to time, and doesn't require as many clicks as 3 tick fish 0 time cook.
+4 tick fish 0 time cook is the last ingredient to Erie fishing. When you're doing 3 tick fish 0 time cook, you eventually run out of fish to eat due to the chance of an unsuccessful roll. In order to get fish back without eating, the next best thing is to use either leather, a way to 4 tick. This method is considerably easier to time, and doesn't require as many clicks as 3 tick fish 0 ti[me cook. If you do this method to replace Erie fishing, you only lose around 43 hours in total.<div style="text-align:left"><img src="https://media.giphy.com/media/Y8wu1jTATBFSiHFs8m/giphy.gif" alt='3 tick fish 0 time cook' width=450>
 
-<div style="text-align:left"><img src="https://i.imgur.com/SyUi5Sw.png" alt='3 tick fish 0 time cook' width=450>
+ 
+ 
+#### Erie Fishing
+Erie fishing is 3 tick fish 0 time cook, and 4 tick fish 0 time cook combined. As explained in [4 tick fish 0 time cook](#4-tick-fish-0-time-cook), you use 4 tick fish to replenish the food you lose from 3 tick fishing. Erie Fishing is hard, but anyone can learn it. I recommend checking out the full [Erie Fishing Guide](2) I made, and also these youtube videos:
+- [Terrathrone](https://www.youtube.com/watch?v=8m0hV8KtTYs)
+- [Inb4btw](https://www.youtube.com/watch?v=T-vxflWVH6s)
+- [oooosonasty](https://www.youtube.com/watch?v=3Bm-ZcDkHWk)
+- [Tannerdino](https://youtu.be/21CYgZBqoVk)
+<div style="text-align:center"><img src="https://media.giphy.com/media/utAdy1R4qR7xLLmg2U/giphy.gif" alt='3 tick fish 0 time cook' width=450>
  
 ### Success Formula
 Many skills, such as fishing, cooking, woodcutting, firemaking, and mining use a success chance formula. Keep in mind this is success chance for each ROLL; rolls can cascade and or double in certain cases. Most success chances are calculated using the same formula:
