@@ -222,6 +222,30 @@ Erie fishing is 3 tick fish 0 time cook, and 4 tick fish 0 time cook combined. A
 - [Tannerdino](https://youtu.be/21CYgZBqoVk)
 <div style="text-align:center"><img src="https://media.giphy.com/media/utAdy1R4qR7xLLmg2U/giphy.gif" alt='3 tick fish 0 time cook' width=450>
  
+
+#### Fishing Alternatives
+ 
+### Woodcutting & Firemaking
+Much like Fishing and Cooking, Woodcutting and Firemaking are very closely tied together. Woodcutting and Firemaking are one of the most diverse skills in terms of methods and alternatives. Methods ranging from AFKing yews to 2.66 tick willows with 0 time firemake. You can choose whichever method fits your ideals. The main "restriction" for Woodcutting is axe type availability; you can obtain axe types bronze through steel via shops, but axe types mithril through rune, must be obtained through smithing. Most notably, adamant at 70 and rune at 85 smithing. Axe types increase your success rates at each tree type, ditching smithing and using lower lvl axe types comes at a price.
+ 
+#### Firemaking & Complexities
+Standard firemaking is relatively simple; you chop logs until you have a full inventory, then you firemake all the logs without missing ticks. Standard firemaking is an extremely viable and worthwhile way to train firemaking, however firemake ultimately slows down woodcutting. This means that the more you firemake, the more time you aren't woodcutting. This factor significantly rewards methods that have high XP per log; or even, 0 time Firemake methods.
+ 
+#### Perfect Tick Rates
+(Rune Axe) Method | Average XP/hr to level 99 |   level 99 XP/hr   | Hours to level 99|  -  |  -  |(Adamant Axe) Method | Average XP/hr to level 99 | level 99 XP/hr | Hours to level 99
+--------|---------------|----------------|--------------|-----|-----|--------|----------------|-----------------|--------------
+2.66 tick willows 0 time fm | 82098 xp/hr | 89718 xp/hr | 159 Hours |  -  |  -  |2.66 tick willows 0 time fm | 71798 xp/hr | 78629 xp/hr | 182 Hours
+3 tick willows 0 time fm | 74198 xp/hr | 81084 xp/hr | 176 Hours |  -  |  -  | 3 tick willows 0 time fm | 64733 xp/hr | 70892 xp/hr | 201 Hours
+Afk Willows 0 time fm | 57532 xp/hr | 62871 xp/hr | 227 Hours | -  |  -  | Afk Willows 0 time fm | 49956 xp/hr | 54709 xp/hr | 261 Hours
+2.66 tick willows | 58018 xp/hr | 51292 xp/hr | 225 Hours |  -  |  -  | 2.66 tick willows | 52680 xp/hr | 47459 xp/hr | 247 Hours
+3 tick willows | 53952 xp/hr | 48344 xp/hr | 242 Hours | -  |  -  | 3 tick willows | 48771 xp/hr | 44524 xp/hr | 267 Hours
+3.11 tick willows| 52719 xp/hr | 47434 xp/hr | 247 Hours | -  |  -  | 3.11 tick willows | 47593 xp/hr | 43624 xp/hr | 274 Hours
+3 tick yews | 47615 xp/hr | 49791 xp/hr | 274 Hours | -  |  -  | 3 tick yews | 47245 xp/hr | 49811 xp/hr | 276 Hours
+Afk yews | 37101 xp/hr | 39214 xp/hr | 351 Hours | -  |  -  | Afk yews | 36797 xp/hr | 39226 xp/hr | 354 Hours
+
+ 
+#### Multiple Snow Piles
+
 ### Success Formula
 Many skills, such as fishing, cooking, woodcutting, firemaking, and mining use a success chance formula. Keep in mind this is success chance for each ROLL; rolls can cascade and or double in certain cases. Most success chances are calculated using the same formula:
 ![successrate](https://user-images.githubusercontent.com/61213166/117903966-845a0100-b29e-11eb-8230-b63d5e5a4550.png)
