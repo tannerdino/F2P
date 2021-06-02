@@ -181,6 +181,13 @@ Where:
 ## Quick Skills
 Fishing, cooking, woodcutting, and firemaking are the fastest skills on a F2P Ironman. All of these skills have their own range of leniency in terms of mechanics, alternatives, and max order placement.
 
+### Success Formula
+Many skills, such as fishing, cooking, woodcutting, firemaking, and mining use a success chance formula. Keep in mind this is success chance for each ROLL; rolls can cascade and or double in certain cases. Most success chances are calculated using the same formula:
+![successrate](https://user-images.githubusercontent.com/61213166/117903966-845a0100-b29e-11eb-8230-b63d5e5a4550.png)
+The *Low* and *High* variables usually vary by skill, object types, and items used. The *lvl* variable is obviously the level.
+
+[A List of Low and High Variables](https://github.com/tannerdino/F2P/blob/e0f25e168e279b8ccf2b99293cfd4c8575b2d14b/Additional%20Info/Lows%20and%20Highs)
+
 ### Fishing & Cooking
 Fishing and Cooking are pretty much the same skill. Trout and salmon are the best fishing xp, which are found at [Barbarian Village]() and Lumbridge. When fishing trout and salmon, from lvls 20-99 you can expect to use roughly 222,160 feathers averaging 58.63 xp per feather. Your cooking to fishing xp ratio will be on average 1.3353:1, putting you at 9,757,940 fishing xp once you hit 99 fishing; once there, you can do cookless fishing. Lumbridge is always better than Barbarian Village; believe it or not, Lumbridge fish spawns are considerably closer to each other, making lumbridge ~0.68% faster in just raw rates. However, some people prefer Barbarian Village over Lumbridge, due to the eternal fire there. There's a large assortment of [Tick Manipulation]() methods for fishing. But, all of them are beat out by one method called "Erie fishing."
 
@@ -226,12 +233,13 @@ Erie fishing is 3 tick fish 0 time cook, and 4 tick fish 0 time cook combined. A
 #### Fishing Alternatives
  
 ### Woodcutting & Firemaking
-Much like Fishing and Cooking, Woodcutting and Firemaking are very closely tied together. Woodcutting and Firemaking are one of the most diverse skills in terms of methods and alternatives. Methods ranging from AFKing yews to 2.66 tick willows with 0 time firemake. You can choose whichever method fits your ideals. The main "restriction" for Woodcutting is axe type availability; you can obtain axe types bronze through steel via shops, but axe types mithril through rune, must be obtained through smithing. Most notably, adamant at 70 and rune at 85 smithing. Axe types increase your success rates at each tree type, ditching smithing and using lower lvl axe types comes at a price.
+Much like Fishing and Cooking, Woodcutting and Firemaking are very closely tied together. The 2 best trees for Woodcutting are yews and willows; willows being the fastest, and yews being the AFK alternative. Any other trees are completely negligable. Woodcutting and Firemaking are one of the most diverse skills in terms of methods and alternatives. Methods ranging from AFKing yews to 2.66 tick willows with 0 time firemake. You can choose whichever method fits your ideals. The main "restriction" for Woodcutting is axe type availability; you can obtain axe types bronze through steel via shops, but axe types mithril through rune, must be obtained through smithing. Most notably, adamant at 70 and rune at 85 smithing. Axe types increase your success rates at each tree type, ditching smithing and using lower lvl axe types comes at a price.
  
 #### Firemaking & Complexities
-Standard firemaking is relatively simple; you chop logs until you have a full inventory, then you firemake all the logs without missing ticks. Standard firemaking is an extremely viable and worthwhile way to train firemaking, however firemake ultimately slows down woodcutting. This means that the more you firemake, the more time you aren't woodcutting. This factor significantly rewards methods that have high XP per log; or even, 0 time Firemake methods.
+Standard firemaking is relatively simple; you chop logs until you have a full inventory, then you firemake all the logs without missing ticks. Standard firemaking is an extremely viable and worthwhile way to train firemaking, however firemake ultimately slows down woodcutting. This means that the more you firemake, the more time you aren't woodcutting. This factor significantly rewards methods that have high XP per log; or even, 0 time Firemake methods
  
 #### Perfect Tick Rates
+Looking at these rates, we can see that 0 time Firemake saves tons of time over standard firemaking. Yew trees are less affected by axe-type, compared to willows. Yews with standard firemake are also pretty comparable to willows, since yews have a high XP per log, as stated in [Firemaking & Complexities](Firemaking--Complexities). Keep in mind, these rates are *Perfect tick*, which means rates for hard or intense methods are more unrealistic to reach than easier methods.
 (Rune Axe) Method | Average XP/hr to level 99 |   level 99 XP/hr   | Hours to level 99|  -  |  -  |(Adamant Axe) Method | Average XP/hr to level 99 | level 99 XP/hr | Hours to level 99
 --------|---------------|----------------|--------------|-----|-----|--------|----------------|-----------------|--------------
 2.66 tick willows 0 time fm | 82098 xp/hr | 89718 xp/hr | 159 Hours |  -  |  -  |2.66 tick willows 0 time fm | 71798 xp/hr | 78629 xp/hr | 182 Hours
@@ -239,16 +247,22 @@ Standard firemaking is relatively simple; you chop logs until you have a full in
 Afk Willows 0 time fm | 57532 xp/hr | 62871 xp/hr | 227 Hours | -  |  -  | Afk Willows 0 time fm | 49956 xp/hr | 54709 xp/hr | 261 Hours
 2.66 tick willows | 58018 xp/hr | 51292 xp/hr | 225 Hours |  -  |  -  | 2.66 tick willows | 52680 xp/hr | 47459 xp/hr | 247 Hours
 3 tick willows | 53952 xp/hr | 48344 xp/hr | 242 Hours | -  |  -  | 3 tick willows | 48771 xp/hr | 44524 xp/hr | 267 Hours
-3.11 tick willows| 52719 xp/hr | 47434 xp/hr | 247 Hours | -  |  -  | 3.11 tick willows | 47593 xp/hr | 43624 xp/hr | 274 Hours
+AFK willows| 44559 xp/hr | 41219 xp/hr | 293 Hours | -  |  -  | Afk willows | 39880 xp/hr | 37546 xp/hr | 327 Hours
 3 tick yews | 47615 xp/hr | 49791 xp/hr | 274 Hours | -  |  -  | 3 tick yews | 47245 xp/hr | 49811 xp/hr | 276 Hours
 Afk yews | 37101 xp/hr | 39214 xp/hr | 351 Hours | -  |  -  | Afk yews | 36797 xp/hr | 39226 xp/hr | 354 Hours
 
  
 #### Multiple Snow Piles
+Each 8x8 game chunk has a 1 snow limit. This means that you can have 2 adjacent snow piles next to each other, where chunks meet. This is useful because you cannot spawn a snow on the tick after it disapears, you really need that tick in order to maintain a constant 3 tick cycle. 
 
-### Success Formula
-Many skills, such as fishing, cooking, woodcutting, firemaking, and mining use a success chance formula. Keep in mind this is success chance for each ROLL; rolls can cascade and or double in certain cases. Most success chances are calculated using the same formula:
-![successrate](https://user-images.githubusercontent.com/61213166/117903966-845a0100-b29e-11eb-8230-b63d5e5a4550.png)
-The *Low* and *High* variables usually vary by skill, object types, and items used. The *lvl* variable is obviously the level.
+![unknown (4)](https://user-images.githubusercontent.com/61213166/120356925-db1d8e00-c2d2-11eb-88f2-87512c1afc9a.png)
 
-[A List of Low and High Variables](https://github.com/tannerdino/F2P/blob/e0f25e168e279b8ccf2b99293cfd4c8575b2d14b/Additional%20Info/Lows%20and%20Highs)
+Snow takes 7 ticks to spawn once you activate your snowglobe and snow lasts on the ground for 24 ticks, this means we can easily time our snow globe activation on the correct tick. This wording makes it seem precise, but in reality its hardly precise.
+
+
+#### 3 tick willows 
+Using [Multiple Snow Piles](#multiple-snow-piles), we can do a method dubbed "Double Snow." Double Snow takes 242 hours to 99 wcing, if doing standard firemaking. This can be lowered to 176 hours if you do 0 time firemake
+
+
+<div style="text-align:center"><img src="https://media.giphy.com/media/qyCPasdBm6R21q9U0Z/giphy.gif" alt='3 tick fish 0 time cook' width=450>
+
