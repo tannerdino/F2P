@@ -160,7 +160,13 @@ Various Tick manipulation items, and their properties:
 | Tinderbox and log | 4 tick | Yes | Tinderbox and log |
 
 ### Prayer Flicking
-Prayer Flicking is a useful skill to have if you want to do multiple obor and bryophyta kills per trip, or if you want to save hours for combats.
+Prayer Flicking is a useful skill to have if you want to do multiple obor and bryophyta kills per trip, or if you want to save hours for combats. When you activate a prayer, it starts to drain the tick after its activated. This means you can easily turn it on and off before the drain starts. If you have a good understanding of ticks, prayer flicking is pretty intuitive; but, 1 tick prayer flicking can be tricky. [Prayer Flicking](#https://oldschool.runescape.wiki/w/Prayer#Prayer_flicking) on OSRS Wiki, explains prayer flicking quite well.
+
+**Example of Prayer Flicking**
+
+
+https://user-images.githubusercontent.com/61213166/120702967-b5cf8200-c482-11eb-8449-0dd1886fba05.mp4
+
 
 
 
