@@ -13,8 +13,14 @@ This is a F2P Ironman Guide written by Tannerdino. This guide will 100% be up to
           - Abusing Runelite
           - F2P Wiki
           - OSRS Wiki
- - [**Maxing Orders**](#Maxing-Orders)
-
+ - [**Maxing Orders and Their Hours**](#Maxing-Orders)
+     - Ogress
+     - Ogress & Moss Giants
+     - Ogress & Hill Giants
+     - Ogress & Golems
+     - Ogress & Golems (Golems prioritized)
+     - Hill Giants
+     - Moss Giants
 
  - **Tactics & Techniques**
      - Tick Manipulation in Skilling
@@ -119,6 +125,7 @@ List of Runelite plugins that make the game easier, but are not overpowered:
 - **Screen Markers**: Mark the screen to help you know where to click, usually only helpful in interfaces.
 - **Shortest path (Plugin Hub)**: Mark a point on the map and it will highlight the squares for the best path.
 - **NPC Indicators**: Shows monster respawn squares and time.
+- **World Location**: Shows chunk borders
 
 Overpowered Runelite plguins:
 - **Anti Drag**: Allows you to increase the threashold to drag items, allowing you to minimalize misclicks.
@@ -137,6 +144,25 @@ OSRS Wiki is a perfect place to find information about things ingame, make sure 
 ## Efficient Max Order
 
 ## Tactics & Techniques
+Common tactics and techniques that are useful everywhere ingame.
+### Tick Manipulation in Skilling
+Please check out the [Tick Manipulation Mechanics Guide](https://github.com/data-dependent/osrs-guides/blob/master/skilling.md) by Data_dependant! It explains tick manipulation and its mechanics in tremendous detail; even if you know how tick manipulation works, check it out.
+
+Various Tick manipulation items, and their properties:
+| Name | Length | Move in same tick? | Item or Additional Reqs |
+|--------|--------|--------------------|------------------------|
+| Flinched | ROUNDDOWN(YourAttackSpeed/2) | Not traditionally | Alt, PVP (or npc) |
+| Eating | 3 tick | Yes | Food |
+| Snow | 3 tick | No | Snow globe (Or reindeer hat) from Christmas events |
+| Rune pick | 3 tick (1/6 chance to 2 tick) | No | Rune pick, 41 mining, an adjacent rock |
+| Adamant pick | 4 tick (1/6 chance to 3 tick) | No | Adamant pick, 31 mining, an adjacent rock |
+| Soft Leather | 4 tick (3 tick + 1 tick interface) | No | Needle, thread, soft leather |
+| Tinderbox and log | 4 tick | Yes | Tinderbox and log |
+
+### Prayer Flicking
+Prayer Flicking is a useful skill to have if you want to do multiple obor and bryophyta kills per trip, or if you want to save hours for combats.
+
+
 
 ## Combats
 Combat training has the biggest impact over any skill on a F2P Ironman. Law & Nat expense skills and combats rely on each other, the most important drop of which are the law drops. There are 4 main monsters in F2P that give laws: Ogresses, Moss Giants, Hill Giants, and Ankous. Each have their pros and cons. Theres also other monsters that give very little laws such as Mind and Body Golems, Giant Frogs, Chaos Dwarves, Ice Giants, Minotaurs, Demons, ect.
@@ -161,7 +187,7 @@ When deciding what to kill for combats, a dilemma occurs: Ogresses give too many
 - Smith: ~0.30% (0.33% UIM)
 - Crafting: ~3.00%
 
-Keep in mind, in order to precisely find the answer, we'd need to look at hours saved per law, which is a lot of math work as a lot of skills depend on each other. A rough estimate gives us enough evidence to assume that smithing and crafting are prioritized over runecrafting, assuming you play efficiently on a normal ironman account. On UIM's and HCIM's, prioritizing runecrafting over smithing doesn't lose you a significant amount of time, compared to how much time you lose on a normal iron. [Suicide bodies] is the reason why law rc on ironman isnt as good. Smithing also gives a significant amount of magic xp, as stated in [smithing].
+Keep in mind, in order to precisely find the answer, we'd need to look at hours saved per law, which is a lot of math work as a lot of skills depend on each other. A rough estimate gives us enough evidence to assume that smithing and crafting are prioritized over runecrafting, assuming you play efficiently on a normal ironman account. On UIM's and HCIM's, prioritizing runecrafting over smithing doesn't lose you a significant amount of time, compared to how much time you lose on a normal iron. [Suicide bodies]() is the reason why law rc on ironman isnt as good. Smithing also gives a significant amount of magic xp, as stated in [smithing]().
 
 Assuming we're prioritizing smithing and crafting over runecrafting, we can use this simple formula to determine the Monster2:Ogress ratio. With this ratio, we can very easily determine the percentage of both monsters.
 ![Bigformula](https://user-images.githubusercontent.com/61213166/117911432-c8073780-b2ab-11eb-8951-7dc6c4680ea1.png)
@@ -177,6 +203,43 @@ Where:
 - *n = nats per kill*
 - *l = laws per kill*
 
+
+## Law & Nat Expense Skills
+Mentioned earlier in [Combats](#combats), law and nature runes are THE most important runes on a F2P Ironman. They speed up skills like [Smithing](#smithing), [Crafting](#crafting), and [Runecrafting](#runecrafting) to a large degree. 
+
+### Smithing
+Smithing is one of the most useful skills on a F2P Ironman. You can smith from mithril axes (50 smithing) to rune axes (85 smithing) for [woodcutting](#woodcutting--firemaking), a rune scimitar (89 smithing) for [Melees](#combats), or any sort of unique items like rune daggers (84 smithing) or war hammers (94 smithing). For smithing, iron ore is ALWAYS meta; if your goal is purely XP or GP, theres no reason to not do iron. Iron reaches a success rate of 100% at 61 mining, meaning it can't get any faster after 61 mining. This fact becomes particularly useful for [crafting]().
+
+
+#### Experience Rates
+The exact Hours depends greatly on what monster you kill for combats, so it will be under the assumption that combats were trained efficiently.
+| Method | XP rate | Smith Hours | Magic Hours left | Net Hours | Estimated Perfect rate | Estimated Perfect hours |
+|--------|---------|-------------|------------------|-----------|------------------------|-------------------------|
+| Raw Superheat | 27000 xp/hr | - | - | - | 0 xp/hr | - |
+| Raw Snow Superheat | 30000 xp/hr | - | - | - | 0 xp/hr | - |
+| Double Hop Snow Superheat | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours | 0 xp/hr | 0 hours |
+| Double Hop Superheat | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours | 0 xp/hr | 0 hours |
+| Standard Hop Snow Superheat | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours | 0 xp/hr | 0 hours |
+| Standard Hop Superheat | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours | 0 xp/hr | 0 hours |
+| 3 tick Rings of Forging | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours | 0 xp/hr | 0 hours |
+| 3.5 tick Rings of Forging | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours | 0 xp/hr | 0 hours |
+| Standard Rings of Forging | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours | 0 xp/hr | 0 hours |
+
+
+
+#### Superheating
+Superheating is the most efficient way to train smithing; you gain fast smithing XP/hr, and tons of passive magic XP. The best ore to superheat is always iron, any other ore is a complete waste. One may think that superheating steel-runite saves nature runes, therefore its efficient. However, superheating anything else but iron is slower than non-superheat iron methods; in other words, if you wont superheat iron, its better to not use your nats.
+
+##### Obtaining Nature Runes
+
+##### Using Nature Runes
+
+#### Rings of Forging
+Rings of forging is a fantastic alternative over superheating
+### Crafting
+
+### Runecrafting
+The amount of various runecrafting methods is obsurd.
 
 ## Quick Skills
 Fishing, cooking, woodcutting, and firemaking are the fastest skills on a F2P Ironman. All of these skills have their own range of leniency in terms of mechanics, alternatives, and max order placement.
