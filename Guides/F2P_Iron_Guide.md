@@ -160,15 +160,14 @@ Various Tick manipulation items, and their properties:
 | Tinderbox and log | 4 tick | Yes | Tinderbox and log |
 
 ### Prayer Flicking
-Prayer Flicking is a useful skill to have if you want to do multiple obor and bryophyta kills per trip, or if you want to save hours for combats. When you activate a prayer, it starts to drain the tick after its activated. This means you can easily turn it on and off before the drain starts. If you have a good understanding of ticks, prayer flicking is pretty intuitive; but, 1 tick prayer flicking can be tricky. [Prayer Flicking](#https://oldschool.runescape.wiki/w/Prayer#Prayer_flicking) on OSRS Wiki, explains prayer flicking quite well.
+Prayer Flicking is a useful skill to have if you want to do multiple obor and bryophyta kills per trip, or if you want to save hours for combats. When you activate a prayer, it starts to drain the tick after its activated. This means you can easily turn it on and off before the drain starts. If you have a good understanding of ticks, prayer flicking is pretty intuitive; but, 1 tick prayer flicking can be tricky. [Prayer Flicking](https://oldschool.runescape.wiki/w/Prayer#Prayer_flicking) on OSRS Wiki, explains prayer flicking quite well.
 
 **Example of Prayer Flicking**
+<div style="text-align:center"><img src="https://media.giphy.com/media/6xjkrXO6Dv8q7TrR5a/giphy.gif" alt='3 tick fish 0 time cook' width=540>
 
-
-https://user-images.githubusercontent.com/61213166/120702967-b5cf8200-c482-11eb-8449-0dd1886fba05.mp4
-
-
-
+### Alt Abuse
+### Efficient World Hopping
+### Run Energy Managment
 
 ## Combats
 Combat training has the biggest impact over any skill on a F2P Ironman. Law & Nat expense skills and combats rely on each other, the most important drop of which are the law drops. There are 4 main monsters in F2P that give laws: Ogresses, Moss Giants, Hill Giants, and Ankous. Each have their pros and cons. Theres also other monsters that give very little laws such as Mind and Body Golems, Giant Frogs, Chaos Dwarves, Ice Giants, Minotaurs, Demons, ect.
