@@ -236,6 +236,7 @@ The exact Hours depends greatly on what monster you kill for combats, so it will
 Superheating is the most efficient way to train smithing; you gain fast smithing XP/hr, and tons of passive magic XP. The best ore to superheat is always iron, any other ore is a complete waste. One may think that superheating steel-runite saves nature runes, therefore its efficient. However, superheating anything else but iron is slower than non-superheat iron methods; in other words, if you wont superheat iron, its better to not use your nats.
 
 ##### Obtaining Nature Runes
+There are 2 main ways of obtaining nature runes: killing monsters, and telegrrabbing nats.
 
 ##### Using Nature Runes
 
@@ -243,8 +244,9 @@ Superheating is the most efficient way to train smithing; you gain fast smithing
 Rings of forging is a fantastic alternative over superheating
 ### Crafting
 
+
 ### Runecrafting
-The amount of various runecrafting methods is obsurd.
+Runecrafting has tons of various methods.
 
 ## Quick Skills
 Fishing, cooking, woodcutting, and firemaking are the fastest skills on a F2P Ironman. All of these skills have their own range of leniency in terms of mechanics, alternatives, and max order placement.
