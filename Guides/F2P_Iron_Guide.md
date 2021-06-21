@@ -13,6 +13,7 @@ This is a F2P Ironman Guide written by Tannerdino. This guide will 100% be up to
           - Abusing Runelite
           - F2P Wiki
           - OSRS Wiki
+ - [**Early Game**](#early-game)
  - [**Maxing Orders and Their Hours**](#Maxing-Orders)
      - Ogress
      - Ogress & Moss Giants
@@ -22,7 +23,7 @@ This is a F2P Ironman Guide written by Tannerdino. This guide will 100% be up to
      - Hill Giants
      - Moss Giants
 
- - **Tactics & Techniques**
+ - [**Tactics & Techniques**](#tactics--techniques)
      - Tick Manipulation in Skilling
      - Prayer Flicking
      - Alt Abuse
@@ -76,6 +77,7 @@ This is a F2P Ironman Guide written by Tannerdino. This guide will 100% be up to
         - 0 time firemake
         - Woodcutting Alternatives
         - Unrealistic methods
+- [**Post Max Goals**](#post-max-goals)
 
 ## Introduction
 Introduction will be used to introduce you to important topics and information that are outside the realm of the in-game meta.
@@ -216,19 +218,19 @@ Mentioned earlier in [Combats](#combats), law and nature runes are THE most impo
 Smithing is one of the most useful skills on a F2P Ironman. You can smith from mithril axes (50 smithing) to rune axes (85 smithing) for [woodcutting](#woodcutting--firemaking), a rune scimitar (89 smithing) for [Melees](#combats), or any sort of unique items like rune daggers (84 smithing) or war hammers (94 smithing). For smithing, iron ore is ALWAYS meta; if your goal is purely XP or GP, theres no reason to not do iron. Iron reaches a success rate of 100% at 61 mining, meaning it can't get any faster after 61 mining. This fact becomes particularly useful for [crafting]().
 
 
-#### Experience Rates
+#### Smithing Experience Rates
 The exact Hours depends greatly on what monster you kill for combats, so it will be under the assumption that combats were trained efficiently.
-| Method | XP rate | Smith Hours | Magic Hours left | Net Hours | Estimated Perfect rate | Estimated Perfect hours |
-|--------|---------|-------------|------------------|-----------|------------------------|-------------------------|
-| Raw Superheat | 27000 xp/hr | - | - | - | 0 xp/hr | - |
-| Raw Snow Superheat | 30000 xp/hr | - | - | - | 0 xp/hr | - |
-| Double Hop Snow Superheat | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours | 0 xp/hr | 0 hours |
-| Double Hop Superheat | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours | 0 xp/hr | 0 hours |
-| Standard Hop Snow Superheat | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours | 0 xp/hr | 0 hours |
-| Standard Hop Superheat | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours | 0 xp/hr | 0 hours |
-| 3 tick Rings of Forging | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours | 0 xp/hr | 0 hours |
-| 3.5 tick Rings of Forging | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours | 0 xp/hr | 0 hours |
-| Standard Rings of Forging | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours | 0 xp/hr | 0 hours |
+| Method | XP rate | Smith Hours | Hours to 99 all |
+|--------|---------|-------------|------------------|
+| Raw Superheat | 27000 xp/hr | 0 xp/hr | - |
+| Raw Snow Superheat | 30000 xp/hr | 0 xp/hr | - |
+| Double Hop Snow Superheat | 0 xp/hr | 0 xp/hr | 0 hours |
+| Double Hop Superheat | 0 xp/hr | 0 xp/hr | 0 hours |
+| Standard Hop Snow Superheat | 0 xp/hr | 0 xp/hr | 0 hours |
+| Standard Hop Superheat | 0 xp/hr | 0 xp/hr | 0 hours |
+| 3 tick Rings of Forging | 0 xp/hr | 0 xp/hr | 0 hours |
+| 3.5 tick Rings of Forging | 0 xp/hr | 0 xp/hr | 0 hours |
+| Standard Rings of Forging | 0 xp/hr | 0 xp/hr | 0 hours |
 
 
 
@@ -241,12 +243,59 @@ There are 2 main ways of obtaining nature runes: killing monsters, and telegrrab
 ##### Using Nature Runes
 
 #### Rings of Forging
-Rings of forging is a fantastic alternative over superheating
-### Crafting
+Rings of forging is great alternative over superheating
 
+### Crafting
+Crafting has a high XP rate ceiling; it is pretty much impossible to perfect tick efficient crafting. This is mainly due to an ample amount of world hopping. The most efficient way to gain crafting XP is to 
+ 
+#### Crafting Experience Rates
+| Method | Standard Rate | Double Hop Rate | Standard Hours to 99 | Double Hop Hours to 99 | Efficient Hours to 99 all |
+|--------|---------|-------------|------------------|-----------|-|
+| Varrock Southwest | 0 xp/hr | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours |
+| Crafting Guild | 0 xp/hr | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours |
+| Crafting Guild (air runes) | 0 xp/hr | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours |
+| Crafting Guild (air tiaras) | 0 xp/hr | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours |
+| Crafting Guild Run Restore | 0 xp/hr | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours |
+| Varrock Southwest (No tele) | 0 xp/hr | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours |
+| Wildy Gold | 0 xp/hr | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours |
+| Leather Crafting (body runes) | 0 xp/hr | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours |
+| Clay Bowls | 0 xp/hr | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours |
+ 
+#### Crafting Guild
+ 
+#### Varrock Southwest Mine
+ 
+#### Tick manipulation in Crafting
+ 
+#### Double Hop Timings
+ 
+#### Useful & Cool Alternatives
 
 ### Runecrafting
-Runecrafting has tons of various methods.
+Runecrafting is by far the slowest skill on a F2P Ironman; it's effective limit is only around 5.5k-6k/hr. However, theres dozens of distinct runecrafting methods, in which, earth and body runes are primarily the best and easiest to do. Runecrafting is almost always the best skill to lamp
+
+#### Runecrafting Experience Rates
+| Method | AFK Ess XP rate | 2t Ess XP Rate | AFK Hours to 99 | 2t Ess Hours to 99 | Hours to 99 all |
+|--------|---------|-------------|------------------|-----------|-|
+| Suicide Bodies | 0 xp/hr | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours |
+| Fally Pub Earths | 0 xp/hr | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours |
+| Suicide Earths | 0 xp/hr | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours |
+| Chronicle Earths | 0 xp/hr | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours |
+| Chronicle Canoe Earths | 0 xp/hr | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours |
+| Tele Earths | 0 xp/hr | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours |
+| Tele Canoe Earths | 0 xp/hr | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours |
+| Banking ess (body runes) | 0 xp/hr | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours |
+| Air tallies | 0 xp/hr | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours |
+
+#### Fabled Air Talismans
+ 
+#### Golems
+
+#### Efficient Rune Essence Gathering
+
+#### Run Energy Restoration Strats
+
+#### Suicide Body Runes
 
 ## Quick Skills
 Fishing, cooking, woodcutting, and firemaking are the fastest skills on a F2P Ironman. All of these skills have their own range of leniency in terms of mechanics, alternatives, and max order placement.
