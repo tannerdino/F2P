@@ -103,7 +103,7 @@ Bonus XP is used to calc the amount of 0 time XP a player should have. 0 time si
 
 
 ### Useful tools
-There's many things you can use to benifit yourself ingame by either making things objectively easier, or simply nicer or convenient.
+There's many things you can use to benifit yourself ingame by either making things objectively easier, nicer or simply convenient.
 
 
 
@@ -132,7 +132,7 @@ List of Runelite plugins that make the game easier, but are not overpowered:
 Overpowered Runelite plguins:
 - **Anti Drag**: Allows you to increase the threashold to drag items, allowing you to minimalize misclicks.
 - **Entity Hider**: Allows you to hide npcs/categorized players; really useful for fishing, or any method thats overcrowded by players.
-- **World Hopper**: Changing worlds on login screen, and auto hop.
+- **World Hopper**: Changing worlds on login screen, and hot key hop.
 - **GPU**: Increased render distance.
 - **Camera**: Increased camera zoom out distance.
 - **Menu Entry Swapper**: Make various teleport items left clickable, make buying from shops easy.
@@ -142,6 +142,8 @@ Overpowered Runelite plguins:
 
 #### OSRS wiki
 OSRS Wiki is a perfect place to find information about things ingame, make sure you use the [Wiki](https://oldschool.runescape.wiki/) and not the [Wikia Fandom](https://oldschoolrunescape.fandom.com/wiki/Old_School_RuneScape_Wiki). If you want to make sure you use the right one, the ingame account management tab has an osrs wiki link, as well as a wiki banner at the top right of your client and a wiki command in public chat "::wiki". 90% of the questions you have are easily wikiable; however, OSRS wiki can lack specific F2P Meta questions. Most F2P Meta questions can be answered [here](https://www.f2p.wiki/faqs)
+
+## Early Game
 
 ## Efficient Max Order
 
@@ -168,7 +170,9 @@ Prayer Flicking is a useful skill to have if you want to do multiple obor and br
 <div style="text-align:center"><img src="https://media.giphy.com/media/6xjkrXO6Dv8q7TrR5a/giphy.gif" alt='3 tick fish 0 time cook' width=540>
 
 ### Alt Abuse
+There's multiple ways to abuse alts on a F2P Ironman.
 ### Efficient World Hopping
+World hopping is used for several things; crafting, telegrabbing nats, Boneyard, making str pots, and much more. There are When you world hop, the game is essentially logging you out and logging you back in, it seems that there'd be no way to make world hopping any faster; but there's a way.
 ### Run Energy Managment
 
 ## Combats
