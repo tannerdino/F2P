@@ -281,12 +281,12 @@ Runecrafting is by far the slowest skill on a F2P Ironman; it's effective limit 
 #### Runecrafting Experience Rates
 | Method | AFK Ess XP rate | 2t Ess XP Rate | AFK Hours to 99 | 2t Ess Hours to 99 | Hours to 99 all |
 |--------|---------|-------------|------------------|-----------|-|
-| Suicide Bodies | 0 xp/hr | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours |
-| Fally Pub Earths | 0 xp/hr | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours |
-| Suicide Earths | 0 xp/hr | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours |
+| Suicide Bodies | 4850 xp/hr | 5200 xp/hr | 0 Hours | 0 Hours | 0 Hours |
+| Fally Pub Earths | 4800 xp/hr | 5150 xp/hr | 0 Hours | 2531 Hours | 0 Hours |
+| Suicide Earths | 5150 xp/hr | 5500 xp/hr | 0 Hours | 0 Hours | 0 Hours |
 | Chronicle Earths | 0 xp/hr | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours |
-| Chronicle Canoe Earths | 0 xp/hr | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours |
-| Tele Earths | 0 xp/hr | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours |
+| Chronicle Canoe Earths | 3950 xp/hr | 4200 xp/hr | 0 Hours | 0 Hours | 0 Hours |
+| Tele Earths | 4200 xp/hr | 4500 xp/hr | 0 Hours | 0 Hours | 0 Hours |
 | Tele Canoe Earths | 0 xp/hr | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours |
 | Banking ess (body runes) | 0 xp/hr | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours |
 | Air tallies | 0 xp/hr | 0 xp/hr | 0 Hours | 0 Hours | 0 Hours |
