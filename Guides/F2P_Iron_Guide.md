@@ -170,9 +170,21 @@ Prayer Flicking is a useful skill to have if you want to do multiple obor and br
 <div style="text-align:center"><img src="https://media.giphy.com/media/6xjkrXO6Dv8q7TrR5a/giphy.gif" alt='3 tick fish 0 time cook' width=540>
 
 ### Alt Abuse
-There's multiple ways to abuse alts on a F2P Ironman.
+There are multiple ways to abuse alts on a F2P Ironman. Some of which are "morally acceptable", such as minigame boosting or anticrashing. There are other ways to abuse alts to gain an xp rate advantage, such as suicide bodies, fally pub earth runes, and restocking shops (minimal). Whether or not you want to abuse alts is entirely up to you, most if not all alt abuse methods are higher effort, higher reward. If you enjoy using alts, go for it; if it's highly against your morals, or spirit of the gamemode, don't hesitate to disregard these methods. In most clans, degrading anyone for their style of play is not tolerated; so try not to judge or hate on someone because they use alts or not. **Everything here listed will not get you banned or deironed by Jagex, ESPECIALLY SINCE YOU'RE A F2P ACCOUNT; the only real way to get banned or deironed by Jagex is if you abused an unknown exploit to transfer items to ironmen accounts, or something along those lines.**
+- Suiciding (on pvp world)
+- Kicking alt for flinching, in skilling
+- Restocking certain shops
+- Fally pub earth runes
+- Minigame boosting for rewards
+- Making fires to cook on
+- Scouting
+- Help stop crashers
+- Lowering Elvarg health
+
 ### Efficient World Hopping
-World hopping is used for several things; crafting, telegrabbing nats, Boneyard, making str pots, and much more. There are When you world hop, the game is essentially logging you out and logging you back in, it seems that there'd be no way to make world hopping any faster; but there's a way.
+World hopping is used for several things; crafting, telegrabbing nats, Boneyard, making str pots, and much more. There are When you world hop, the game is essentially logging you out and logging you back in, it seems that there'd be no way to make world hopping any faster; but there's a way. Introducing Double Client Hopping. Double Client Hopping is a way to almost completely cancel out the loading time of hopping worlds, or logging in. Simply put, when you have 2 clients opened, one logged in and one logged out, you are able to start logging in on the logged out client without affecting the logged in client. Logging in on a logged out client starts a ~6 second login phase and after this phase is over, if you're not currently logged in, you will successfully login. This means, when you're doing a hop method, you can login with another client ~5 seconds or so before you would normally hop.
+ 
+A faster, but less controlled way to double hop is to replace the logging out and logging in, on both clients, with solely hopping
 ### Run Energy Managment
 
 ## Combats
