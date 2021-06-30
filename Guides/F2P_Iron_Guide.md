@@ -193,12 +193,44 @@ Combat training has the biggest impact over any skill on a F2P Ironman. Law & Na
 ### [Ogresses](https://oldschool.runescape.wiki/w/Ogress_Warrior)
 Ogresses give the most laws out of any of the other monsters. On top of that, they give tons of nats, gems, and gp. However, Ogresses have much higher defence and HP than the other monsters. This means reduced combat XP/hr and less prayer xp in the longrun. Ogresses are killed in the [Cosair Cove.](https://oldschool.runescape.wiki/w/Corsair_Cove#Corsair_Cove_Dungeon)
 
+| Type |  Hours to Max | Str Pots Needed | Melee Order |
+|------|---------------|-----------------|-------------|
+| Scim & Pray flick | 0 Hours | 0 Str Pots | [Link](#a) |
+| Golem Mace & Pray flick | 0 Hours | 0 Str Pots | [Link](#a) |
+| Sword & Pray flick | 0 Hours | 0 Str Pots | [Link](#a) |
+| Scim & No Pray flick | 0 Hours | 0 Str Pots | [Link](#a) |
+| Golem Mace & No Pray flick | 0 Hours | 0 Str Pots | [Link](#a) |
+| Sword & No Pray Flick | 0 Hours | 0 Str Pots | [Link](#a) |
+ 
 ### [Moss Giants](https://oldschool.runescape.wiki/w/Moss_giant)
 Moss Giants give decent laws, nats, and gp. They, additionally, give really good combat XP/hr and solid prayer XP. One thing that really benifits the loot from Moss Giants is the mossy keys. Mossy keys are a one time use to fight [Bryophyta](https://oldschool.runescape.wiki/w/Bryophyta), the moss giant boss, and they're a really good source of laws, nats, gp, and strength pots. Mossy keys are normally a 1/150 chance (pre-roll); however, at [Wilderness Moss Giants](https://mejrs.github.io/osrs?m=-1&z=3&p=0&x=3139&y=3813&npc=Moss+giant) mossy keys have an additional 1/100 chance to drop when the 1/150 chance fails. This averages to a 1/60.24 chance. Additionally, Bryophyta has a 1/16 chance (pre-roll) to drop a key. So this increases the average keys per Moss Giant even further to a 1/56.475 chance. If you dont want to risk going into the wilderness, Moss Giants in [Varrock Sewers](https://mejrs.github.io/osrs?m=-1&z=4&p=0&x=3165&y=9889&npc=Moss+giant) or [Crandor](https://mejrs.github.io/osrs?m=-1&z=3&p=0&x=2826&y=3239&npc=Moss+giant) is the next best thing.
+ 
+| Type |  Hours to Max | Str Pots Needed | Melee Order |
+|------|---------------|-----------------|-------------|
+| Scim & Pray flick | 0 Hours | 0 Str Pots | [Link](#a) |
+| Golem Mace & Pray flick | 0 Hours | 0 Str Pots | [Link](#a) |
+| Sword & Pray flick | 0 Hours | 0 Str Pots | [Link](#a) |
+| Scim & No Pray flick | 0 Hours | 0 Str Pots | [Link](#a) |
+| Golem Mace & No Pray flick | 0 Hours | 0 Str Pots | [Link](#a) |
+| Sword & No Pray Flick | 0 Hours | 0 Str Pots | [Link](#a) |
 
 ### [Hill Giants](https://oldschool.runescape.wiki/w/Hill_Giant_(Desert_Plateau))
 Hill Giants give decent laws, nats, and gp. They give decent combat XP/hr, and extremely good prayer XP. Hill Giants also have a giant boss: [Obor](https://oldschool.runescape.wiki/w/Obor). Obor is the key reason why hill giants have decent laws, nats, and gp. Unlike Moss Giants, Hill Giants do not have a good wilderness spot; in addition, giant keys in the wilderness are a 1/60 chance compared to the 1/56.475 chance of mossy keys. This is okay, however, because Hill Giants at [Desert Plateau](https://oldschool.runescape.wiki/w/Desert_Plateau) are really good. Desert Plateau has 7 Hill Giant spawns, as well as 5 bone spawns that take 100 ticks each to respawn; that means if you were to pick up those bone spawns perfectly during hill giant killing, it'd be an additional 1350 prayer XP/hr, just from the bone spawns alone. Alternatively, you could do Hill Giants in the [Edgeville Dungeon](https://oldschool.runescape.wiki/w/Edgeville_Dungeon#Southern), which is good for using giant keys during trips; however, theres more people there and the Hill Giants are more spread-out
+ 
+| Type |  Hours to Max | Str Pots Needed | Melee Order |
+|------|---------------|-----------------|-------------|
+| Scim & Pray flick | 0 Hours | 0 Str Pots | [Link](#a) |
+| Golem Mace & Pray flick | 0 Hours | 0 Str Pots | [Link](#a) |
+| Sword & Pray flick | 0 Hours | 0 Str Pots | [Link](#a) |
+| Scim & No Pray flick | 0 Hours | 0 Str Pots | [Link](#a) |
+| Golem Mace & No Pray flick | 0 Hours | 0 Str Pots | [Link](#a) |
+| Sword & No Pray Flick | 0 Hours | 0 Str Pots | [Link](#a) | 
 
+### Combined Monsters 
+| Monsters | Smithing Method | Crafting Method | Runecrafting Method | Hours to Max Melees | Melee Order | Hours to Max |
+|----------|-----------------|-----------------|---------------------|---------------------|-------------|--------------|
+| Ogress & Moss | 
+ 
 ### Efficient Melee Order
 Each melee skill increases [DPS](https://oldschool.runescape.wiki/w/Damage_per_second/Melee), in a variety of ways; each attack lvl gained increases accuracy, every X number of strength lvls gained increases max hit, and each defence lvl gained increases trip time (if no prayer flick). The order of which you train attack, strength, and defence becomes the question. The solution is quite simple; if the hours saved from a gained attack lvl, before progressing strength lvls to the next max hit, is greater than the hours saved from training that next attack lvl with a new max hit, then its better to train attack in that case; else, it's better to train strength. Using the [MeleeOrder funtion](2) I made, I've compiled a lot of melee orders for each monster.
 
