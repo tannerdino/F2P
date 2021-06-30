@@ -195,12 +195,12 @@ Ogresses give the most laws out of any of the other monsters. On top of that, th
 
 | Type |  Hours to Max Melees | Str Pots Needed | Melee Order |
 |------|---------------|-----------------|-------------|
-| Scim & Pray flick | 886.8 Hours | 1145.7 Str Pots | [Link](#https://github.com/tannerdino/F2P/blob/main/Additional%20Info/MeleeOrders/Monsters/Ogress.txt#L1274) |
-| Golem Mace & Pray flick | 934.6 Hours | 1208.4 Str Pots | [Link](#https://github.com/tannerdino/F2P/blob/main/Additional%20Info/MeleeOrders/Monsters/Ogress.txt#L1819) |
-| Sword & Pray flick | 951.2 Hours | 1229.9 Str Pots | [Link](#https://github.com/tannerdino/F2P/blob/main/Additional%20Info/MeleeOrders/Monsters/Ogress.txt#L1456) |
-| Scim & No Pray flick | 1175.3 Hours | 1523.4 Str Pots | [Link](#https://github.com/tannerdino/F2P/blob/main/Additional%20Info/MeleeOrders/Monsters/Ogress.txt#L1092) |
-| Golem Mace & No Pray flick | 1257.7 Hours | 1630.0 Str Pots | [Link](#https://github.com/tannerdino/F2P/blob/main/Additional%20Info/MeleeOrders/Monsters/Ogress.txt#L2000) |
-| Sword & No Pray Flick | 1274.0 Hours | 1652.3 Str Pots | [Link](#https://github.com/tannerdino/F2P/blob/main/Additional%20Info/MeleeOrders/Monsters/Ogress.txt#L1638) | 
+| Scim & Pray flick | 886.8 Hours | 1145.7 Str Pots | [Link](https://github.com/tannerdino/F2P/blob/main/Additional%20Info/MeleeOrders/Monsters/Ogress.txt#L1274) |
+| Golem Mace & Pray flick | 934.6 Hours | 1208.4 Str Pots | [Link](https://github.com/tannerdino/F2P/blob/main/Additional%20Info/MeleeOrders/Monsters/Ogress.txt#L1819) |
+| Sword & Pray flick | 951.2 Hours | 1229.9 Str Pots | [Link](https://github.com/tannerdino/F2P/blob/main/Additional%20Info/MeleeOrders/Monsters/Ogress.txt#L1456) |
+| Scim & No Pray flick | 1175.3 Hours | 1523.4 Str Pots | [Link](https://github.com/tannerdino/F2P/blob/main/Additional%20Info/MeleeOrders/Monsters/Ogress.txt#L1092) |
+| Golem Mace & No Pray flick | 1257.7 Hours | 1630.0 Str Pots | [Link](https://github.com/tannerdino/F2P/blob/main/Additional%20Info/MeleeOrders/Monsters/Ogress.txt#L2000) |
+| Sword & No Pray Flick | 1274.0 Hours | 1652.3 Str Pots | [Link](https://github.com/tannerdino/F2P/blob/main/Additional%20Info/MeleeOrders/Monsters/Ogress.txt#L1638) | 
  
 ### [Moss Giants](https://oldschool.runescape.wiki/w/Moss_giant)
 Moss Giants give decent laws, nats, and gp. They, additionally, give really good combat XP/hr and solid prayer XP. One thing that really benifits the loot from Moss Giants is the mossy keys. Mossy keys are a one time use to fight [Bryophyta](https://oldschool.runescape.wiki/w/Bryophyta), the moss giant boss, and they're a really good source of laws, nats, gp, and strength pots. Mossy keys are normally a 1/150 chance (pre-roll); however, at [Wilderness Moss Giants](https://mejrs.github.io/osrs?m=-1&z=3&p=0&x=3139&y=3813&npc=Moss+giant) mossy keys have an additional 1/100 chance to drop when the 1/150 chance fails. This averages to a 1/60.24 chance. Additionally, Bryophyta has a 1/16 chance (pre-roll) to drop a key. So this increases the average keys per Moss Giant even further to a 1/56.475 chance. If you dont want to risk going into the wilderness, Moss Giants in [Varrock Sewers](https://mejrs.github.io/osrs?m=-1&z=4&p=0&x=3165&y=9889&npc=Moss+giant) or [Crandor](https://mejrs.github.io/osrs?m=-1&z=3&p=0&x=2826&y=3239&npc=Moss+giant) is the next best thing.
