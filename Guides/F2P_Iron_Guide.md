@@ -189,6 +189,8 @@ A faster, but less controlled way to double hop is to replace the logging out an
 
 ## Combats
 Combat training has the biggest impact over any skill on a F2P Ironman. Law & Nat expense skills and combats rely on each other, the most important drop of which are the law drops. There are 4 main monsters in F2P that give laws: Ogresses, Moss Giants, Hill Giants, and Ankous. Each have their pros and cons. Theres also other monsters that give very little laws such as Mind and Body Golems, Giant Frogs, Chaos Dwarves, Ice Giants, Minotaurs, Demons, ect.
+ 
+Gold Decorative Boots (from Castle Wars) DOES NOT save you hours to max so all numbers beyond this point will assume no Gold Boots. However, I still have all the melee orders for anyone that already have Gold Boots; which can be found [here.]()
 
 ### [Ogresses](https://oldschool.runescape.wiki/w/Ogress_Warrior)
 Ogresses give the most laws out of any of the other monsters. On top of that, they give tons of nats, gems, and gp. However, Ogresses have much higher defence and HP than the other monsters. This means reduced combat XP/hr and less prayer xp in the longrun. Ogresses are killed in the [Cosair Cove.](https://oldschool.runescape.wiki/w/Corsair_Cove#Corsair_Cove_Dungeon)
