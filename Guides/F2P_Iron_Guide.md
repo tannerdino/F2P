@@ -1,9 +1,8 @@
-# Tannerdino's F2P Ironman Guide
+# Tannerdino's F2P Ironman Guide 0.9.1
 This is a F2P Ironman Guide written by Tannerdino. This guide will 100% be up to date with new discoveries and in-game updates. Huge thank you to the F2P Community, The Summit, and OSRS Wiki for having useful info, creating discussions, and overall being a good place to be in.
 
 
 ### Table of Contents
-
  - [**Introduction**](#Introduction)
      - [F2P Motives](#F2P-Motives)
      - [The Grind](#The-Grind)
@@ -229,9 +228,9 @@ Hill Giants give decent laws, nats, and gp. They give decent combat XP/hr, and e
 | Sword & No Pray Flick | 0 Hours | 0 Str Pots | [Link](#a) | 
 
 ### Combined Monsters 
-| Monsters | Smithing Method | Crafting Method | Runecrafting Method | Hours to Max Melees | Melee Order | Hours to Max |
-|----------|-----------------|-----------------|---------------------|---------------------|-------------|--------------|
-| Ogress & Moss | 
+| Monsters | Smithing Method | Crafting Method | Runecrafting Method | Hours to Max Melees (Pray flick) | Hours to Max Melees (No Pray flick) |
+|----------|-----------------|-----------------|---------------------|---------------------|-------------|
+| Scim: 31.20% Ogress & 68.80% Moss | Telegrab & Superheat | Double Hop VSW | Suicide Bodies | [742.0 Hours](https://github.com/tannerdino/F2P/blob/main/Additional%20Info/MeleeOrders/Monsters/31.20%25%20Ogress;%2068.80%25%20Moss.txt#L4) | 0 Hours |
  
 ### Efficient Melee Order
 Each melee skill increases [DPS](https://oldschool.runescape.wiki/w/Damage_per_second/Melee), in a variety of ways; each attack lvl gained increases accuracy, every X number of strength lvls gained increases max hit, and each defence lvl gained increases trip time (if no prayer flick). The order of which you train attack, strength, and defence becomes the question. The solution is quite simple; if the hours saved from a gained attack lvl, before progressing strength lvls to the next max hit, is greater than the hours saved from training that next attack lvl with a new max hit, then its better to train attack in that case; else, it's better to train strength. Using the [MeleeOrder funtion](2) I made, I've compiled a lot of melee orders for each monster.
