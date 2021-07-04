@@ -144,7 +144,26 @@ OSRS Wiki is a perfect place to find information about things ingame, make sure 
 
 ## Early Game
 
-## Efficient Max Order
+## Ways to Max
+Max Efficiency:
+| Skill | Method | Hours | Notes |
+|-------|--------|-------|-------|
+| Overall | N/A | 0 Hours | N/A |
+| Attack |
+| Defence |
+| Strength |
+| Hitpoints |
+| Ranged |
+| Prayer |
+| Magic |
+| Cooking |
+| Woodcutting |
+| Fishing |
+| Firemaking |
+| Crafting |
+| Smithing |
+| Mining |
+| Runecraft |
 
 ## Tactics & Techniques
 Common tactics and techniques that are useful everywhere ingame.
